@@ -5,6 +5,7 @@
 /tmp
 /out-tsc
 /bazel-out
+/.nx
 
 # Node
 /node_modules
@@ -33,6 +34,7 @@ yarn-error.log
 .sass-cache/
 /connect.lock
 /coverage
+/reports
 /libpeerconnection.log
 testem.log
 /typings

@@ -1,0 +1,26 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-bottom: 32px;
+}
+
+.d-title-breadcrumbs {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  color: var(--color-text-medium-emphasis);
+}
+
+a:not(.d-title-breadcrumbs-active) {
+  text-decoration: underline;
+  transition: color .2s;
+}
+
+a:not(.d-title-breadcrumbs-active):hover {
+  color: var(--color-text-high-emphasis);
+}
+
+.d-title-breadcrumbs-active {
+  cursor: default;
+}

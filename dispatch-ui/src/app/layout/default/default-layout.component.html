@@ -1,0 +1,17 @@
+<d-app-bar (toggleExpand)="handleToggleExpand()" />
+
+@if (expanded()) {
+  <d-navigation-drawer />
+} @else {
+  <d-navigation-rail />
+}
+
+<main>
+  <!-- <div class="d-default-layout-title">
+    <d-breadcrumbs />
+
+    <h1>{{ route()?.title }}</h1>
+  </div> -->
+
+  <router-outlet />
+</main>

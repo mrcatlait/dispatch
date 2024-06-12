@@ -1,0 +1,11 @@
+@switch (layout$ | async) {
+  @case (layouts.Default) {
+    <d-default-layout />
+  }
+  @case (layouts.Blank) {
+    <d-blank-layout />
+  }
+  @default {
+    <d-default-layout />
+  }
+}

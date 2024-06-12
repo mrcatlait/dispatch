@@ -1,0 +1,16 @@
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-width: 900px;
+}
+
+.fieldset-group {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+
+  fieldset {
+    flex: 1;
+  }
+}

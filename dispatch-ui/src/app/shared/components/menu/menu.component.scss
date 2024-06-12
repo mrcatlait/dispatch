@@ -1,0 +1,11 @@
+.d-menu-container {
+  position: fixed;
+  display: flex;
+  color: var(--color-surface-container);
+  background-color: var(--color-secondary);
+  border-radius: var(--shape-medium);
+  padding: 8px;
+  min-width: 112px;
+  max-width: 280px;
+  z-index: 10;
+}

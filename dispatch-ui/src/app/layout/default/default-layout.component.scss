@@ -1,0 +1,32 @@
+$body-pane-padding: 24px;
+
+:host {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-rows: auto 1fr;
+  grid-template-areas:
+    "header header"
+    "nav main";
+  min-height: 100vh;
+}
+
+d-app-bar {
+  grid-area: header;
+}
+
+d-navigation-drawer,
+d-navigation-rail {
+  grid-area: nav;
+}
+
+main {
+  grid-area: main;
+  padding: $body-pane-padding;
+  // max-width: 1284px; // --ytd-grid-max-width
+}
+
+.d-default-layout-title {
+  display: flex; 
+  flex-direction: column;
+  margin: 24px 0 46px 0;
+}

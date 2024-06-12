@@ -1,0 +1,16 @@
+<div
+  *ngIf="hasBreadcrumbs()"
+  class="d-breadcrumbs-container"
+>
+  @for (breadcrumb of breadcrumbs(); track breadcrumb.url; let last = $last) {
+    <a
+      [class.d-breadcrumbs-active]="last"
+      [routerLink]="breadcrumb.url"
+      class="body-m"
+    >
+      {{ breadcrumb.label }}
+    </a>
+
+    <span *ngIf="!last"> / </span>
+  }
+</div>

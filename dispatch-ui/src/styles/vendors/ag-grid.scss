@@ -1,0 +1,35 @@
+@use "@ag-grid-community/styles" as ag;
+
+// https://www.ag-grid.com/theme-builder/
+// https://material-components.github.io/material-components-web-catalog/#/component/data-table
+@mixin ag-grid() {
+  @include ag.grid-styles((
+    theme: material,
+    // https://www.ag-grid.com/angular-data-grid/global-style-customisation-variables
+    material-primary-color: var(--color-primary),
+    material-accent-color: var(--color-primary),
+    borders: solid 1px,
+    border-radius: var(--shape-small),
+    wrapper-border: solid 1px var(--color-outline),
+    wrapper-border-radius: var(--shape-small),
+    border-color: rgba(0, 0, 0, 0.16), // var(--color-outline),
+    background-color: transparent,
+    // Header
+    header-background-color: transparent,
+    header-foreground-color: var(--color-text-high-emphasis),
+    header-font-family: var(--typography-font-family),
+    // Rows
+    font-size: 14px,
+    font-family: var(--typography-font-family),
+    data-color: var(--color-text-high-emphasis),
+    cell-horizontal-padding: 16px,
+    row-hover-color: #F0F1F8,
+    row-height: 52px,
+  ));
+
+  .ag-header-cell-text {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+  }
+}

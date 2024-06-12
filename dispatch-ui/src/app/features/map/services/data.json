@@ -1,0 +1,6439 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "mode": "medium_truck",
+    "params": {
+      "mode": "medium_truck",
+      "agents": [
+        {
+          "start_location": [
+            24.10773558173831,
+            56.95181785
+          ],
+          "time_windows": [
+            [
+              0,
+              10800
+            ]
+          ]
+        },
+        {
+          "start_location": [
+            24.111942246285956,
+            56.947498350000004
+          ],
+          "time_windows": [
+            [
+              0,
+              10800
+            ]
+          ]
+        },
+        {
+          "start_location": [
+            24.1028196,
+            56.9547411
+          ],
+          "time_windows": [
+            [
+              0,
+              10800
+            ]
+          ]
+        }
+      ],
+      "shipments": [
+        {
+          "id": "order_1",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.095562572143276,
+              56.9431352
+            ],
+            "duration": 300
+          }
+        },
+        {
+          "id": "order_2",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.111873567633232,
+              56.9484067
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_3",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.101194963361763,
+              56.9541423
+            ],
+            "duration": 300
+          }
+        },
+        {
+          "id": "order_4",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.101194963361763,
+              56.9541423
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_5",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.101194963361763,
+              56.9541423
+            ],
+            "duration": 240
+          }
+        },
+        {
+          "id": "order_6",
+          "delivery": {
+            "location_index": 0,
+            "duration": 240
+          },
+          "pickup": {
+            "location": [
+              24.101194963361763,
+              56.9541423
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_7",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.0999991251943,
+              56.955252200000004
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_8",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.091265266516764,
+              56.94643535
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_9",
+          "delivery": {
+            "location_index": 0,
+            "duration": 300
+          },
+          "pickup": {
+            "location": [
+              24.088755470492643,
+              56.948333950000006
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_10",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.096131012777235,
+              56.942734200000004
+            ],
+            "duration": 240
+          }
+        },
+        {
+          "id": "order_11",
+          "delivery": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "pickup": {
+            "location": [
+              24.096131012777235,
+              56.942734200000004
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_12",
+          "delivery": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "pickup": {
+            "location": [
+              24.11098139578923,
+              56.94825205
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_13",
+          "delivery": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "pickup": {
+            "location": [
+              24.116748762355417,
+              56.955868652587604
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_14",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.080111079525686,
+              56.943602999999996
+            ],
+            "duration": 300
+          }
+        },
+        {
+          "id": "order_15",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.10384358706679,
+              56.94836925
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_16",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.10384358706679,
+              56.94836925
+            ],
+            "duration": 300
+          }
+        },
+        {
+          "id": "order_17",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.10384358706679,
+              56.94836925
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_18",
+          "delivery": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "pickup": {
+            "location": [
+              24.10384358706679,
+              56.94836925
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_19",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.10973971297646,
+              56.95045385
+            ],
+            "duration": 240
+          }
+        },
+        {
+          "id": "order_20",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.113090502879988,
+              56.9467485
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_21",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.113090502879988,
+              56.9467485
+            ],
+            "duration": 300
+          }
+        },
+        {
+          "id": "order_22",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.118241728529966,
+              56.9494416
+            ],
+            "duration": 300
+          }
+        },
+        {
+          "id": "order_23",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.114423865598617,
+              56.95260585
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_24",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.114423865598617,
+              56.95260585
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_25",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.080309995583775,
+              56.94389325
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_26",
+          "delivery": {
+            "location_index": 0,
+            "duration": 240
+          },
+          "pickup": {
+            "location": [
+              24.080309995583775,
+              56.94389325
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_27",
+          "delivery": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "pickup": {
+            "location": [
+              24.080309995583775,
+              56.94389325
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_28",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.10268887216613,
+              56.949033
+            ],
+            "duration": 300
+          }
+        },
+        {
+          "id": "order_29",
+          "delivery": {
+            "location_index": 0,
+            "duration": 240
+          },
+          "pickup": {
+            "location": [
+              24.11073446778953,
+              56.94873685
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_30",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.110008274417993,
+              56.9489219
+            ],
+            "duration": 300
+          }
+        },
+        {
+          "id": "order_31",
+          "delivery": {
+            "location_index": 0,
+            "duration": 300
+          },
+          "pickup": {
+            "location": [
+              24.1115931709442,
+              56.948989499999996
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_32",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.11147385910852,
+              56.94881585
+            ],
+            "duration": 300
+          }
+        },
+        {
+          "id": "order_33",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.11147385910852,
+              56.94881585
+            ],
+            "duration": 240
+          }
+        },
+        {
+          "id": "order_34",
+          "delivery": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "pickup": {
+            "location": [
+              24.1120465097733,
+              56.949064199999995
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_35",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.10966985467359,
+              56.9487742
+            ],
+            "duration": 240
+          }
+        },
+        {
+          "id": "order_36",
+          "delivery": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "pickup": {
+            "location": [
+              24.10966985467359,
+              56.9487742
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_37",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.109829065059444,
+              56.94868015
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_38",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.110275132793106,
+              56.94851585
+            ],
+            "duration": 240
+          }
+        },
+        {
+          "id": "order_39",
+          "delivery": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "pickup": {
+            "location": [
+              24.110275132793106,
+              56.94851585
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_40",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.111825853586986,
+              56.949159550000005
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_41",
+          "delivery": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "pickup": {
+            "location": [
+              24.114523960704354,
+              56.94716365
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_42",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.113455152990475,
+              56.94715705
+            ],
+            "duration": 240
+          }
+        },
+        {
+          "id": "order_43",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.113455152990475,
+              56.94715705
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_44",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.113455152990475,
+              56.94715705
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_45",
+          "delivery": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "pickup": {
+            "location": [
+              24.113455152990475,
+              56.94715705
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_46",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.113684097026024,
+              56.94682805
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_47",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.113684097026024,
+              56.94682805
+            ],
+            "duration": 300
+          }
+        },
+        {
+          "id": "order_48",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.113769328574982,
+              56.94674565
+            ],
+            "duration": 240
+          }
+        },
+        {
+          "id": "order_49",
+          "delivery": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "pickup": {
+            "location": [
+              24.11353354421754,
+              56.9470256
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_50",
+          "delivery": {
+            "location_index": 0,
+            "duration": 240
+          },
+          "pickup": {
+            "location": [
+              24.11353354421754,
+              56.9470256
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_51",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.113626905476192,
+              56.9469108
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_52",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.113863916540254,
+              56.946556900000004
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_53",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.113863916540254,
+              56.946556900000004
+            ],
+            "duration": 240
+          }
+        },
+        {
+          "id": "order_54",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.113863916540254,
+              56.946556900000004
+            ],
+            "duration": 300
+          }
+        },
+        {
+          "id": "order_55",
+          "delivery": {
+            "location_index": 0,
+            "duration": 300
+          },
+          "pickup": {
+            "location": [
+              24.113404399621455,
+              56.947244749999996
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_56",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.106260113675432,
+              56.9489877
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_57",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.106826728088986,
+              56.94903825
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_58",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.106826728088986,
+              56.94903825
+            ],
+            "duration": 300
+          }
+        },
+        {
+          "id": "order_59",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.106834056249998,
+              56.94891765
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_60",
+          "delivery": {
+            "location_index": 0,
+            "duration": 240
+          },
+          "pickup": {
+            "location": [
+              24.106790613936592,
+              56.948870549999995
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_61",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.10691069369205,
+              56.94917615
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_62",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.10691069369205,
+              56.94917615
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_63",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.10627439642525,
+              56.948280100000005
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_64",
+          "delivery": {
+            "location_index": 0,
+            "duration": 300
+          },
+          "pickup": {
+            "location": [
+              24.106292115918624,
+              56.94845695
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_65",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.106335897605895,
+              56.94853675
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_66",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.106335897605895,
+              56.94853675
+            ],
+            "duration": 240
+          }
+        },
+        {
+          "id": "order_67",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.106269353997504,
+              56.94908767684572
+            ],
+            "duration": 300
+          }
+        },
+        {
+          "id": "order_68",
+          "delivery": {
+            "location_index": 0,
+            "duration": 240
+          },
+          "pickup": {
+            "location": [
+              24.106269353997504,
+              56.94908767684572
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_69",
+          "delivery": {
+            "location_index": 0,
+            "duration": 240
+          },
+          "pickup": {
+            "location": [
+              24.106269353997504,
+              56.94908767684572
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_70",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.10964546797145,
+              56.9482613328063
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_71",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.10964546797145,
+              56.9482613328063
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_72",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.109393892451774,
+              56.94856645842906
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_73",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.109393892451774,
+              56.94856645842906
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_74",
+          "delivery": {
+            "location_index": 0,
+            "duration": 300
+          },
+          "pickup": {
+            "location": [
+              24.109304154251085,
+              56.94839487986856
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_75",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.110629627980614,
+              56.94820903570999
+            ],
+            "duration": 240
+          }
+        },
+        {
+          "id": "order_76",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.110629627980614,
+              56.94820903570999
+            ],
+            "duration": 240
+          }
+        },
+        {
+          "id": "order_77",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.110629627980614,
+              56.94820903570999
+            ],
+            "duration": 300
+          }
+        },
+        {
+          "id": "order_78",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.109979197416383,
+              56.94816376562906
+            ],
+            "duration": 240
+          }
+        },
+        {
+          "id": "order_79",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.11266016266934,
+              56.94854225
+            ],
+            "duration": 120
+          }
+        },
+        {
+          "id": "order_80",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.11266016266934,
+              56.94854225
+            ],
+            "duration": 240
+          }
+        },
+        {
+          "id": "order_81",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.11266016266934,
+              56.94854225
+            ],
+            "duration": 240
+          }
+        },
+        {
+          "id": "order_82",
+          "pickup": {
+            "location_index": 0,
+            "duration": 120
+          },
+          "delivery": {
+            "location": [
+              24.104493374798025,
+              56.949681850000005
+            ],
+            "duration": 240
+          }
+        }
+      ],
+      "locations": [
+        {
+          "id": "warehouse-0",
+          "location": [
+            24.1084952,
+            56.9463762
+          ]
+        }
+      ],
+      "traffic": "approximated"
+    },
+    "issues": {
+      "unassigned_shipments": [
+        6,
+        8,
+        12,
+        13,
+        24,
+        25,
+        26,
+        59,
+        67,
+        68
+      ]
+    }
+  },
+  "features": [
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              24.107736,
+              56.951818
+            ],
+            [
+              24.106292,
+              56.948457
+            ]
+          ],
+          [
+            [
+              24.106292,
+              56.948457
+            ],
+            [
+              24.108495,
+              56.946376
+            ]
+          ],
+          [
+            [
+              24.108495,
+              56.946376
+            ],
+            [
+              24.096131,
+              56.942734
+            ]
+          ],
+          [
+            [
+              24.096131,
+              56.942734
+            ],
+            [
+              24.095563,
+              56.943135
+            ]
+          ],
+          [
+            [
+              24.095563,
+              56.943135
+            ],
+            [
+              24.091265,
+              56.946435
+            ]
+          ],
+          [
+            [
+              24.091265,
+              56.946435
+            ],
+            [
+              24.118242,
+              56.949442
+            ]
+          ],
+          [
+            [
+              24.118242,
+              56.949442
+            ],
+            [
+              24.114424,
+              56.952606
+            ]
+          ],
+          [
+            [
+              24.114424,
+              56.952606
+            ],
+            [
+              24.113455,
+              56.947157
+            ]
+          ],
+          [
+            [
+              24.113455,
+              56.947157
+            ],
+            [
+              24.113627,
+              56.946911
+            ]
+          ],
+          [
+            [
+              24.113627,
+              56.946911
+            ],
+            [
+              24.113091,
+              56.946748
+            ]
+          ],
+          [
+            [
+              24.113091,
+              56.946748
+            ],
+            [
+              24.113684,
+              56.946828
+            ]
+          ],
+          [
+            [
+              24.113684,
+              56.946828
+            ],
+            [
+              24.113769,
+              56.946746
+            ]
+          ],
+          [
+            [
+              24.113769,
+              56.946746
+            ],
+            [
+              24.113864,
+              56.946557
+            ]
+          ],
+          [
+            [
+              24.113864,
+              56.946557
+            ],
+            [
+              24.11266,
+              56.948542
+            ]
+          ],
+          [
+            [
+              24.11266,
+              56.948542
+            ],
+            [
+              24.111874,
+              56.948407
+            ]
+          ],
+          [
+            [
+              24.111874,
+              56.948407
+            ],
+            [
+              24.109645,
+              56.948261
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "agent_index": 0,
+        "time": 10762,
+        "start_time": 0,
+        "end_time": 10762,
+        "distance": 9250,
+        "legs": [
+          {
+            "time": 666,
+            "distance": 2166,
+            "from_waypoint_index": 0,
+            "to_waypoint_index": 1,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 666,
+                "distance": 2166
+              }
+            ]
+          },
+          {
+            "time": 151,
+            "distance": 288,
+            "from_waypoint_index": 1,
+            "to_waypoint_index": 2,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 151,
+                "distance": 288
+              }
+            ]
+          },
+          {
+            "time": 365,
+            "distance": 1338,
+            "from_waypoint_index": 2,
+            "to_waypoint_index": 3,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 365,
+                "distance": 1338
+              }
+            ]
+          },
+          {
+            "time": 73,
+            "distance": 127,
+            "from_waypoint_index": 3,
+            "to_waypoint_index": 4,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 73,
+                "distance": 127
+              }
+            ]
+          },
+          {
+            "time": 223,
+            "distance": 520,
+            "from_waypoint_index": 4,
+            "to_waypoint_index": 5,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 223,
+                "distance": 520
+              }
+            ]
+          },
+          {
+            "time": 761,
+            "distance": 3065,
+            "from_waypoint_index": 5,
+            "to_waypoint_index": 6,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 761,
+                "distance": 3065
+              }
+            ]
+          },
+          {
+            "time": 152,
+            "distance": 445,
+            "from_waypoint_index": 6,
+            "to_waypoint_index": 7,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 152,
+                "distance": 445
+              }
+            ]
+          },
+          {
+            "time": 284,
+            "distance": 781,
+            "from_waypoint_index": 7,
+            "to_waypoint_index": 8,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 284,
+                "distance": 781
+              }
+            ]
+          },
+          {
+            "time": 15,
+            "distance": 29,
+            "from_waypoint_index": 8,
+            "to_waypoint_index": 9,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 15,
+                "distance": 29
+              }
+            ]
+          },
+          {
+            "time": 3,
+            "distance": 7,
+            "from_waypoint_index": 9,
+            "to_waypoint_index": 10,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 3,
+                "distance": 7
+              }
+            ]
+          },
+          {
+            "time": 2,
+            "distance": 3,
+            "from_waypoint_index": 10,
+            "to_waypoint_index": 11,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 2,
+                "distance": 3
+              }
+            ]
+          },
+          {
+            "time": 5,
+            "distance": 10,
+            "from_waypoint_index": 11,
+            "to_waypoint_index": 12,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 5,
+                "distance": 10
+              }
+            ]
+          },
+          {
+            "time": 11,
+            "distance": 22,
+            "from_waypoint_index": 12,
+            "to_waypoint_index": 13,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 11,
+                "distance": 22
+              }
+            ]
+          },
+          {
+            "time": 158,
+            "distance": 276,
+            "from_waypoint_index": 13,
+            "to_waypoint_index": 14,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 158,
+                "distance": 276
+              }
+            ]
+          },
+          {
+            "time": 22,
+            "distance": 44,
+            "from_waypoint_index": 14,
+            "to_waypoint_index": 15,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 22,
+                "distance": 44
+              }
+            ]
+          },
+          {
+            "time": 71,
+            "distance": 129,
+            "from_waypoint_index": 15,
+            "to_waypoint_index": 16,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 71,
+                "distance": 129
+              }
+            ]
+          }
+        ],
+        "mode": "medium_truck",
+        "actions": [
+          {
+            "index": 0,
+            "type": "start",
+            "start_time": 0,
+            "duration": 0,
+            "waypoint_index": 0
+          },
+          {
+            "index": 1,
+            "type": "pickup",
+            "start_time": 666,
+            "duration": 120,
+            "shipment_index": 63,
+            "shipment_id": "order_64",
+            "waypoint_index": 1
+          },
+          {
+            "index": 2,
+            "type": "pickup",
+            "start_time": 937,
+            "duration": 120,
+            "shipment_index": 42,
+            "shipment_id": "order_43",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 3,
+            "type": "pickup",
+            "start_time": 1057,
+            "duration": 120,
+            "shipment_index": 70,
+            "shipment_id": "order_71",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 4,
+            "type": "pickup",
+            "start_time": 1177,
+            "duration": 120,
+            "shipment_index": 69,
+            "shipment_id": "order_70",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 5,
+            "type": "pickup",
+            "start_time": 1297,
+            "duration": 120,
+            "shipment_index": 1,
+            "shipment_id": "order_2",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 6,
+            "type": "pickup",
+            "start_time": 1417,
+            "duration": 120,
+            "shipment_index": 80,
+            "shipment_id": "order_81",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 7,
+            "type": "pickup",
+            "start_time": 1537,
+            "duration": 120,
+            "shipment_index": 79,
+            "shipment_id": "order_80",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 8,
+            "type": "pickup",
+            "start_time": 1657,
+            "duration": 120,
+            "shipment_index": 78,
+            "shipment_id": "order_79",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 9,
+            "type": "pickup",
+            "start_time": 1777,
+            "duration": 120,
+            "shipment_index": 53,
+            "shipment_id": "order_54",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 10,
+            "type": "pickup",
+            "start_time": 1897,
+            "duration": 120,
+            "shipment_index": 52,
+            "shipment_id": "order_53",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 11,
+            "type": "pickup",
+            "start_time": 2017,
+            "duration": 120,
+            "shipment_index": 51,
+            "shipment_id": "order_52",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 12,
+            "type": "pickup",
+            "start_time": 2137,
+            "duration": 120,
+            "shipment_index": 47,
+            "shipment_id": "order_48",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 13,
+            "type": "pickup",
+            "start_time": 2257,
+            "duration": 120,
+            "shipment_index": 46,
+            "shipment_id": "order_47",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 14,
+            "type": "pickup",
+            "start_time": 2377,
+            "duration": 120,
+            "shipment_index": 45,
+            "shipment_id": "order_46",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 15,
+            "type": "pickup",
+            "start_time": 2497,
+            "duration": 120,
+            "shipment_index": 20,
+            "shipment_id": "order_21",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 16,
+            "type": "pickup",
+            "start_time": 2617,
+            "duration": 120,
+            "shipment_index": 19,
+            "shipment_id": "order_20",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 17,
+            "type": "pickup",
+            "start_time": 2737,
+            "duration": 120,
+            "shipment_index": 50,
+            "shipment_id": "order_51",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 18,
+            "type": "pickup",
+            "start_time": 2857,
+            "duration": 120,
+            "shipment_index": 43,
+            "shipment_id": "order_44",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 19,
+            "type": "pickup",
+            "start_time": 2977,
+            "duration": 120,
+            "shipment_index": 41,
+            "shipment_id": "order_42",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 20,
+            "type": "pickup",
+            "start_time": 3097,
+            "duration": 120,
+            "shipment_index": 23,
+            "shipment_id": "order_24",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 21,
+            "type": "pickup",
+            "start_time": 3217,
+            "duration": 120,
+            "shipment_index": 22,
+            "shipment_id": "order_23",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 22,
+            "type": "pickup",
+            "start_time": 3337,
+            "duration": 120,
+            "shipment_index": 21,
+            "shipment_id": "order_22",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 23,
+            "type": "pickup",
+            "start_time": 3457,
+            "duration": 120,
+            "shipment_index": 7,
+            "shipment_id": "order_8",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 24,
+            "type": "pickup",
+            "start_time": 3577,
+            "duration": 120,
+            "shipment_index": 0,
+            "shipment_id": "order_1",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 25,
+            "type": "pickup",
+            "start_time": 3697,
+            "duration": 120,
+            "shipment_index": 9,
+            "shipment_id": "order_10",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 26,
+            "type": "delivery",
+            "start_time": 3817,
+            "duration": 300,
+            "shipment_index": 63,
+            "shipment_id": "order_64",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 2
+          },
+          {
+            "index": 27,
+            "type": "delivery",
+            "start_time": 4482,
+            "duration": 240,
+            "shipment_index": 9,
+            "shipment_id": "order_10",
+            "waypoint_index": 3
+          },
+          {
+            "index": 28,
+            "type": "delivery",
+            "start_time": 4795,
+            "duration": 300,
+            "shipment_index": 0,
+            "shipment_id": "order_1",
+            "waypoint_index": 4
+          },
+          {
+            "index": 29,
+            "type": "delivery",
+            "start_time": 5318,
+            "duration": 120,
+            "shipment_index": 7,
+            "shipment_id": "order_8",
+            "waypoint_index": 5
+          },
+          {
+            "index": 30,
+            "type": "delivery",
+            "start_time": 6199,
+            "duration": 300,
+            "shipment_index": 21,
+            "shipment_id": "order_22",
+            "waypoint_index": 6
+          },
+          {
+            "index": 31,
+            "type": "delivery",
+            "start_time": 6651,
+            "duration": 120,
+            "shipment_index": 23,
+            "shipment_id": "order_24",
+            "waypoint_index": 7
+          },
+          {
+            "index": 32,
+            "type": "delivery",
+            "start_time": 6771,
+            "duration": 120,
+            "shipment_index": 22,
+            "shipment_id": "order_23",
+            "waypoint_index": 7
+          },
+          {
+            "index": 33,
+            "type": "delivery",
+            "start_time": 7175,
+            "duration": 120,
+            "shipment_index": 42,
+            "shipment_id": "order_43",
+            "waypoint_index": 8
+          },
+          {
+            "index": 34,
+            "type": "delivery",
+            "start_time": 7295,
+            "duration": 120,
+            "shipment_index": 43,
+            "shipment_id": "order_44",
+            "waypoint_index": 8
+          },
+          {
+            "index": 35,
+            "type": "delivery",
+            "start_time": 7415,
+            "duration": 240,
+            "shipment_index": 41,
+            "shipment_id": "order_42",
+            "waypoint_index": 8
+          },
+          {
+            "index": 36,
+            "type": "delivery",
+            "start_time": 7670,
+            "duration": 120,
+            "shipment_index": 50,
+            "shipment_id": "order_51",
+            "waypoint_index": 9
+          },
+          {
+            "index": 37,
+            "type": "delivery",
+            "start_time": 7793,
+            "duration": 300,
+            "shipment_index": 20,
+            "shipment_id": "order_21",
+            "waypoint_index": 10
+          },
+          {
+            "index": 38,
+            "type": "delivery",
+            "start_time": 8093,
+            "duration": 120,
+            "shipment_index": 19,
+            "shipment_id": "order_20",
+            "waypoint_index": 10
+          },
+          {
+            "index": 39,
+            "type": "delivery",
+            "start_time": 8215,
+            "duration": 300,
+            "shipment_index": 46,
+            "shipment_id": "order_47",
+            "waypoint_index": 11
+          },
+          {
+            "index": 40,
+            "type": "delivery",
+            "start_time": 8515,
+            "duration": 120,
+            "shipment_index": 45,
+            "shipment_id": "order_46",
+            "waypoint_index": 11
+          },
+          {
+            "index": 41,
+            "type": "delivery",
+            "start_time": 8640,
+            "duration": 240,
+            "shipment_index": 47,
+            "shipment_id": "order_48",
+            "waypoint_index": 12
+          },
+          {
+            "index": 42,
+            "type": "delivery",
+            "start_time": 8891,
+            "duration": 300,
+            "shipment_index": 53,
+            "shipment_id": "order_54",
+            "waypoint_index": 13
+          },
+          {
+            "index": 43,
+            "type": "delivery",
+            "start_time": 9191,
+            "duration": 240,
+            "shipment_index": 52,
+            "shipment_id": "order_53",
+            "waypoint_index": 13
+          },
+          {
+            "index": 44,
+            "type": "delivery",
+            "start_time": 9431,
+            "duration": 120,
+            "shipment_index": 51,
+            "shipment_id": "order_52",
+            "waypoint_index": 13
+          },
+          {
+            "index": 45,
+            "type": "delivery",
+            "start_time": 9709,
+            "duration": 240,
+            "shipment_index": 80,
+            "shipment_id": "order_81",
+            "waypoint_index": 14
+          },
+          {
+            "index": 46,
+            "type": "delivery",
+            "start_time": 9949,
+            "duration": 240,
+            "shipment_index": 79,
+            "shipment_id": "order_80",
+            "waypoint_index": 14
+          },
+          {
+            "index": 47,
+            "type": "delivery",
+            "start_time": 10189,
+            "duration": 120,
+            "shipment_index": 78,
+            "shipment_id": "order_79",
+            "waypoint_index": 14
+          },
+          {
+            "index": 48,
+            "type": "delivery",
+            "start_time": 10331,
+            "duration": 120,
+            "shipment_index": 1,
+            "shipment_id": "order_2",
+            "waypoint_index": 15
+          },
+          {
+            "index": 49,
+            "type": "delivery",
+            "start_time": 10522,
+            "duration": 120,
+            "shipment_index": 70,
+            "shipment_id": "order_71",
+            "waypoint_index": 16
+          },
+          {
+            "index": 50,
+            "type": "delivery",
+            "start_time": 10642,
+            "duration": 120,
+            "shipment_index": 69,
+            "shipment_id": "order_70",
+            "waypoint_index": 16
+          },
+          {
+            "index": 51,
+            "type": "end",
+            "start_time": 10762,
+            "duration": 0
+          }
+        ],
+        "waypoints": [
+          {
+            "original_location": [
+              24.10773558173831,
+              56.95181785
+            ],
+            "location": [
+              24.107736,
+              56.951818
+            ],
+            "start_time": 0,
+            "duration": 0,
+            "actions": [
+              {
+                "index": 0,
+                "type": "start",
+                "start_time": 0,
+                "duration": 0,
+                "waypoint_index": 0
+              }
+            ],
+            "next_leg_index": 0
+          },
+          {
+            "original_location": [
+              24.106292115918624,
+              56.94845695
+            ],
+            "location": [
+              24.106292,
+              56.948457
+            ],
+            "start_time": 666,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 1,
+                "type": "pickup",
+                "start_time": 666,
+                "duration": 120,
+                "shipment_index": 63,
+                "shipment_id": "order_64",
+                "waypoint_index": 1
+              }
+            ],
+            "prev_leg_index": 0,
+            "next_leg_index": 1
+          },
+          {
+            "original_location": [
+              24.1084952,
+              56.9463762
+            ],
+            "location": [
+              24.108495,
+              56.946376
+            ],
+            "start_time": 937,
+            "duration": 3180,
+            "actions": [
+              {
+                "index": 2,
+                "type": "pickup",
+                "start_time": 937,
+                "duration": 120,
+                "shipment_index": 42,
+                "shipment_id": "order_43",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 3,
+                "type": "pickup",
+                "start_time": 1057,
+                "duration": 120,
+                "shipment_index": 70,
+                "shipment_id": "order_71",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 4,
+                "type": "pickup",
+                "start_time": 1177,
+                "duration": 120,
+                "shipment_index": 69,
+                "shipment_id": "order_70",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 5,
+                "type": "pickup",
+                "start_time": 1297,
+                "duration": 120,
+                "shipment_index": 1,
+                "shipment_id": "order_2",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 6,
+                "type": "pickup",
+                "start_time": 1417,
+                "duration": 120,
+                "shipment_index": 80,
+                "shipment_id": "order_81",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 7,
+                "type": "pickup",
+                "start_time": 1537,
+                "duration": 120,
+                "shipment_index": 79,
+                "shipment_id": "order_80",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 8,
+                "type": "pickup",
+                "start_time": 1657,
+                "duration": 120,
+                "shipment_index": 78,
+                "shipment_id": "order_79",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 9,
+                "type": "pickup",
+                "start_time": 1777,
+                "duration": 120,
+                "shipment_index": 53,
+                "shipment_id": "order_54",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 10,
+                "type": "pickup",
+                "start_time": 1897,
+                "duration": 120,
+                "shipment_index": 52,
+                "shipment_id": "order_53",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 11,
+                "type": "pickup",
+                "start_time": 2017,
+                "duration": 120,
+                "shipment_index": 51,
+                "shipment_id": "order_52",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 12,
+                "type": "pickup",
+                "start_time": 2137,
+                "duration": 120,
+                "shipment_index": 47,
+                "shipment_id": "order_48",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 13,
+                "type": "pickup",
+                "start_time": 2257,
+                "duration": 120,
+                "shipment_index": 46,
+                "shipment_id": "order_47",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 14,
+                "type": "pickup",
+                "start_time": 2377,
+                "duration": 120,
+                "shipment_index": 45,
+                "shipment_id": "order_46",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 15,
+                "type": "pickup",
+                "start_time": 2497,
+                "duration": 120,
+                "shipment_index": 20,
+                "shipment_id": "order_21",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 16,
+                "type": "pickup",
+                "start_time": 2617,
+                "duration": 120,
+                "shipment_index": 19,
+                "shipment_id": "order_20",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 17,
+                "type": "pickup",
+                "start_time": 2737,
+                "duration": 120,
+                "shipment_index": 50,
+                "shipment_id": "order_51",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 18,
+                "type": "pickup",
+                "start_time": 2857,
+                "duration": 120,
+                "shipment_index": 43,
+                "shipment_id": "order_44",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 19,
+                "type": "pickup",
+                "start_time": 2977,
+                "duration": 120,
+                "shipment_index": 41,
+                "shipment_id": "order_42",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 20,
+                "type": "pickup",
+                "start_time": 3097,
+                "duration": 120,
+                "shipment_index": 23,
+                "shipment_id": "order_24",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 21,
+                "type": "pickup",
+                "start_time": 3217,
+                "duration": 120,
+                "shipment_index": 22,
+                "shipment_id": "order_23",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 22,
+                "type": "pickup",
+                "start_time": 3337,
+                "duration": 120,
+                "shipment_index": 21,
+                "shipment_id": "order_22",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 23,
+                "type": "pickup",
+                "start_time": 3457,
+                "duration": 120,
+                "shipment_index": 7,
+                "shipment_id": "order_8",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 24,
+                "type": "pickup",
+                "start_time": 3577,
+                "duration": 120,
+                "shipment_index": 0,
+                "shipment_id": "order_1",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 25,
+                "type": "pickup",
+                "start_time": 3697,
+                "duration": 120,
+                "shipment_index": 9,
+                "shipment_id": "order_10",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              },
+              {
+                "index": 26,
+                "type": "delivery",
+                "start_time": 3817,
+                "duration": 300,
+                "shipment_index": 63,
+                "shipment_id": "order_64",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 2
+              }
+            ],
+            "original_location_index": 0,
+            "original_location_id": "warehouse-0",
+            "prev_leg_index": 1,
+            "next_leg_index": 2
+          },
+          {
+            "original_location": [
+              24.096131012777235,
+              56.942734200000004
+            ],
+            "location": [
+              24.096131,
+              56.942734
+            ],
+            "start_time": 4482,
+            "duration": 240,
+            "actions": [
+              {
+                "index": 27,
+                "type": "delivery",
+                "start_time": 4482,
+                "duration": 240,
+                "shipment_index": 9,
+                "shipment_id": "order_10",
+                "waypoint_index": 3
+              }
+            ],
+            "prev_leg_index": 2,
+            "next_leg_index": 3
+          },
+          {
+            "original_location": [
+              24.095562572143276,
+              56.9431352
+            ],
+            "location": [
+              24.095563,
+              56.943135
+            ],
+            "start_time": 4795,
+            "duration": 300,
+            "actions": [
+              {
+                "index": 28,
+                "type": "delivery",
+                "start_time": 4795,
+                "duration": 300,
+                "shipment_index": 0,
+                "shipment_id": "order_1",
+                "waypoint_index": 4
+              }
+            ],
+            "prev_leg_index": 3,
+            "next_leg_index": 4
+          },
+          {
+            "original_location": [
+              24.091265266516764,
+              56.94643535
+            ],
+            "location": [
+              24.091265,
+              56.946435
+            ],
+            "start_time": 5318,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 29,
+                "type": "delivery",
+                "start_time": 5318,
+                "duration": 120,
+                "shipment_index": 7,
+                "shipment_id": "order_8",
+                "waypoint_index": 5
+              }
+            ],
+            "prev_leg_index": 4,
+            "next_leg_index": 5
+          },
+          {
+            "original_location": [
+              24.118241728529966,
+              56.9494416
+            ],
+            "location": [
+              24.118242,
+              56.949442
+            ],
+            "start_time": 6199,
+            "duration": 300,
+            "actions": [
+              {
+                "index": 30,
+                "type": "delivery",
+                "start_time": 6199,
+                "duration": 300,
+                "shipment_index": 21,
+                "shipment_id": "order_22",
+                "waypoint_index": 6
+              }
+            ],
+            "prev_leg_index": 5,
+            "next_leg_index": 6
+          },
+          {
+            "original_location": [
+              24.114423865598617,
+              56.95260585
+            ],
+            "location": [
+              24.114424,
+              56.952606
+            ],
+            "start_time": 6651,
+            "duration": 240,
+            "actions": [
+              {
+                "index": 31,
+                "type": "delivery",
+                "start_time": 6651,
+                "duration": 120,
+                "shipment_index": 23,
+                "shipment_id": "order_24",
+                "waypoint_index": 7
+              },
+              {
+                "index": 32,
+                "type": "delivery",
+                "start_time": 6771,
+                "duration": 120,
+                "shipment_index": 22,
+                "shipment_id": "order_23",
+                "waypoint_index": 7
+              }
+            ],
+            "prev_leg_index": 6,
+            "next_leg_index": 7
+          },
+          {
+            "original_location": [
+              24.113455152990475,
+              56.94715705
+            ],
+            "location": [
+              24.113455,
+              56.947157
+            ],
+            "start_time": 7175,
+            "duration": 480,
+            "actions": [
+              {
+                "index": 33,
+                "type": "delivery",
+                "start_time": 7175,
+                "duration": 120,
+                "shipment_index": 42,
+                "shipment_id": "order_43",
+                "waypoint_index": 8
+              },
+              {
+                "index": 34,
+                "type": "delivery",
+                "start_time": 7295,
+                "duration": 120,
+                "shipment_index": 43,
+                "shipment_id": "order_44",
+                "waypoint_index": 8
+              },
+              {
+                "index": 35,
+                "type": "delivery",
+                "start_time": 7415,
+                "duration": 240,
+                "shipment_index": 41,
+                "shipment_id": "order_42",
+                "waypoint_index": 8
+              }
+            ],
+            "prev_leg_index": 7,
+            "next_leg_index": 8
+          },
+          {
+            "original_location": [
+              24.113626905476192,
+              56.9469108
+            ],
+            "location": [
+              24.113627,
+              56.946911
+            ],
+            "start_time": 7670,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 36,
+                "type": "delivery",
+                "start_time": 7670,
+                "duration": 120,
+                "shipment_index": 50,
+                "shipment_id": "order_51",
+                "waypoint_index": 9
+              }
+            ],
+            "prev_leg_index": 8,
+            "next_leg_index": 9
+          },
+          {
+            "original_location": [
+              24.113090502879988,
+              56.9467485
+            ],
+            "location": [
+              24.113091,
+              56.946748
+            ],
+            "start_time": 7793,
+            "duration": 420,
+            "actions": [
+              {
+                "index": 37,
+                "type": "delivery",
+                "start_time": 7793,
+                "duration": 300,
+                "shipment_index": 20,
+                "shipment_id": "order_21",
+                "waypoint_index": 10
+              },
+              {
+                "index": 38,
+                "type": "delivery",
+                "start_time": 8093,
+                "duration": 120,
+                "shipment_index": 19,
+                "shipment_id": "order_20",
+                "waypoint_index": 10
+              }
+            ],
+            "prev_leg_index": 9,
+            "next_leg_index": 10
+          },
+          {
+            "original_location": [
+              24.113684097026024,
+              56.94682805
+            ],
+            "location": [
+              24.113684,
+              56.946828
+            ],
+            "start_time": 8215,
+            "duration": 420,
+            "actions": [
+              {
+                "index": 39,
+                "type": "delivery",
+                "start_time": 8215,
+                "duration": 300,
+                "shipment_index": 46,
+                "shipment_id": "order_47",
+                "waypoint_index": 11
+              },
+              {
+                "index": 40,
+                "type": "delivery",
+                "start_time": 8515,
+                "duration": 120,
+                "shipment_index": 45,
+                "shipment_id": "order_46",
+                "waypoint_index": 11
+              }
+            ],
+            "prev_leg_index": 10,
+            "next_leg_index": 11
+          },
+          {
+            "original_location": [
+              24.113769328574982,
+              56.94674565
+            ],
+            "location": [
+              24.113769,
+              56.946746
+            ],
+            "start_time": 8640,
+            "duration": 240,
+            "actions": [
+              {
+                "index": 41,
+                "type": "delivery",
+                "start_time": 8640,
+                "duration": 240,
+                "shipment_index": 47,
+                "shipment_id": "order_48",
+                "waypoint_index": 12
+              }
+            ],
+            "prev_leg_index": 11,
+            "next_leg_index": 12
+          },
+          {
+            "original_location": [
+              24.113863916540254,
+              56.946556900000004
+            ],
+            "location": [
+              24.113864,
+              56.946557
+            ],
+            "start_time": 8891,
+            "duration": 660,
+            "actions": [
+              {
+                "index": 42,
+                "type": "delivery",
+                "start_time": 8891,
+                "duration": 300,
+                "shipment_index": 53,
+                "shipment_id": "order_54",
+                "waypoint_index": 13
+              },
+              {
+                "index": 43,
+                "type": "delivery",
+                "start_time": 9191,
+                "duration": 240,
+                "shipment_index": 52,
+                "shipment_id": "order_53",
+                "waypoint_index": 13
+              },
+              {
+                "index": 44,
+                "type": "delivery",
+                "start_time": 9431,
+                "duration": 120,
+                "shipment_index": 51,
+                "shipment_id": "order_52",
+                "waypoint_index": 13
+              }
+            ],
+            "prev_leg_index": 12,
+            "next_leg_index": 13
+          },
+          {
+            "original_location": [
+              24.11266016266934,
+              56.94854225
+            ],
+            "location": [
+              24.11266,
+              56.948542
+            ],
+            "start_time": 9709,
+            "duration": 600,
+            "actions": [
+              {
+                "index": 45,
+                "type": "delivery",
+                "start_time": 9709,
+                "duration": 240,
+                "shipment_index": 80,
+                "shipment_id": "order_81",
+                "waypoint_index": 14
+              },
+              {
+                "index": 46,
+                "type": "delivery",
+                "start_time": 9949,
+                "duration": 240,
+                "shipment_index": 79,
+                "shipment_id": "order_80",
+                "waypoint_index": 14
+              },
+              {
+                "index": 47,
+                "type": "delivery",
+                "start_time": 10189,
+                "duration": 120,
+                "shipment_index": 78,
+                "shipment_id": "order_79",
+                "waypoint_index": 14
+              }
+            ],
+            "prev_leg_index": 13,
+            "next_leg_index": 14
+          },
+          {
+            "original_location": [
+              24.111873567633232,
+              56.9484067
+            ],
+            "location": [
+              24.111874,
+              56.948407
+            ],
+            "start_time": 10331,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 48,
+                "type": "delivery",
+                "start_time": 10331,
+                "duration": 120,
+                "shipment_index": 1,
+                "shipment_id": "order_2",
+                "waypoint_index": 15
+              }
+            ],
+            "prev_leg_index": 14,
+            "next_leg_index": 15
+          },
+          {
+            "original_location": [
+              24.10964546797145,
+              56.9482613328063
+            ],
+            "location": [
+              24.109645,
+              56.948261
+            ],
+            "start_time": 10522,
+            "duration": 240,
+            "actions": [
+              {
+                "index": 49,
+                "type": "delivery",
+                "start_time": 10522,
+                "duration": 120,
+                "shipment_index": 70,
+                "shipment_id": "order_71",
+                "waypoint_index": 16
+              },
+              {
+                "index": 50,
+                "type": "delivery",
+                "start_time": 10642,
+                "duration": 120,
+                "shipment_index": 69,
+                "shipment_id": "order_70",
+                "waypoint_index": 16
+              }
+            ],
+            "prev_leg_index": 15
+          }
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              24.111942,
+              56.947498
+            ],
+            [
+              24.113534,
+              56.947026
+            ]
+          ],
+          [
+            [
+              24.113534,
+              56.947026
+            ],
+            [
+              24.113455,
+              56.947157
+            ]
+          ],
+          [
+            [
+              24.113455,
+              56.947157
+            ],
+            [
+              24.113404,
+              56.947245
+            ]
+          ],
+          [
+            [
+              24.113404,
+              56.947245
+            ],
+            [
+              24.112047,
+              56.949064
+            ]
+          ],
+          [
+            [
+              24.112047,
+              56.949064
+            ],
+            [
+              24.111593,
+              56.94899
+            ]
+          ],
+          [
+            [
+              24.111593,
+              56.94899
+            ],
+            [
+              24.10967,
+              56.948774
+            ]
+          ],
+          [
+            [
+              24.10967,
+              56.948774
+            ],
+            [
+              24.110734,
+              56.948737
+            ]
+          ],
+          [
+            [
+              24.110734,
+              56.948737
+            ],
+            [
+              24.110981,
+              56.948252
+            ]
+          ],
+          [
+            [
+              24.110981,
+              56.948252
+            ],
+            [
+              24.114524,
+              56.947164
+            ]
+          ],
+          [
+            [
+              24.114524,
+              56.947164
+            ],
+            [
+              24.108495,
+              56.946376
+            ]
+          ],
+          [
+            [
+              24.108495,
+              56.946376
+            ],
+            [
+              24.109304,
+              56.948395
+            ]
+          ],
+          [
+            [
+              24.109304,
+              56.948395
+            ],
+            [
+              24.109394,
+              56.948566
+            ]
+          ],
+          [
+            [
+              24.109394,
+              56.948566
+            ],
+            [
+              24.110275,
+              56.948516
+            ]
+          ],
+          [
+            [
+              24.110275,
+              56.948516
+            ],
+            [
+              24.109979,
+              56.948164
+            ]
+          ],
+          [
+            [
+              24.109979,
+              56.948164
+            ],
+            [
+              24.11063,
+              56.948209
+            ]
+          ],
+          [
+            [
+              24.11063,
+              56.948209
+            ],
+            [
+              24.108495,
+              56.946376
+            ]
+          ],
+          [
+            [
+              24.108495,
+              56.946376
+            ],
+            [
+              24.106274,
+              56.94828
+            ]
+          ],
+          [
+            [
+              24.106274,
+              56.94828
+            ],
+            [
+              24.106336,
+              56.948537
+            ]
+          ],
+          [
+            [
+              24.106336,
+              56.948537
+            ],
+            [
+              24.10626,
+              56.948988
+            ]
+          ],
+          [
+            [
+              24.10626,
+              56.948988
+            ],
+            [
+              24.102689,
+              56.949033
+            ]
+          ],
+          [
+            [
+              24.102689,
+              56.949033
+            ],
+            [
+              24.103844,
+              56.948369
+            ]
+          ],
+          [
+            [
+              24.103844,
+              56.948369
+            ],
+            [
+              24.104493,
+              56.949682
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "agent_index": 1,
+        "time": 10780,
+        "start_time": 0,
+        "end_time": 10780,
+        "distance": 5163,
+        "legs": [
+          {
+            "time": 159,
+            "distance": 231,
+            "from_waypoint_index": 0,
+            "to_waypoint_index": 1,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 159,
+                "distance": 231
+              }
+            ]
+          },
+          {
+            "time": 8,
+            "distance": 15,
+            "from_waypoint_index": 1,
+            "to_waypoint_index": 2,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 8,
+                "distance": 15
+              }
+            ]
+          },
+          {
+            "time": 5,
+            "distance": 10,
+            "from_waypoint_index": 2,
+            "to_waypoint_index": 3,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 5,
+                "distance": 10
+              }
+            ]
+          },
+          {
+            "time": 144,
+            "distance": 215,
+            "from_waypoint_index": 3,
+            "to_waypoint_index": 4,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 144,
+                "distance": 215
+              }
+            ]
+          },
+          {
+            "time": 76,
+            "distance": 113,
+            "from_waypoint_index": 4,
+            "to_waypoint_index": 5,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 76,
+                "distance": 113
+              }
+            ]
+          },
+          {
+            "time": 43,
+            "distance": 86,
+            "from_waypoint_index": 5,
+            "to_waypoint_index": 6,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 43,
+                "distance": 86
+              }
+            ]
+          },
+          {
+            "time": 43,
+            "distance": 72,
+            "from_waypoint_index": 6,
+            "to_waypoint_index": 7,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 43,
+                "distance": 72
+              }
+            ]
+          },
+          {
+            "time": 54,
+            "distance": 80,
+            "from_waypoint_index": 7,
+            "to_waypoint_index": 8,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 54,
+                "distance": 80
+              }
+            ]
+          },
+          {
+            "time": 186,
+            "distance": 349,
+            "from_waypoint_index": 8,
+            "to_waypoint_index": 9,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 186,
+                "distance": 349
+              }
+            ]
+          },
+          {
+            "time": 385,
+            "distance": 1297,
+            "from_waypoint_index": 9,
+            "to_waypoint_index": 10,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 385,
+                "distance": 1297
+              }
+            ]
+          },
+          {
+            "time": 177,
+            "distance": 239,
+            "from_waypoint_index": 10,
+            "to_waypoint_index": 11,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 177,
+                "distance": 239
+              }
+            ]
+          },
+          {
+            "time": 92,
+            "distance": 30,
+            "from_waypoint_index": 11,
+            "to_waypoint_index": 12,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 92,
+                "distance": 30
+              }
+            ]
+          },
+          {
+            "time": 5,
+            "distance": 11,
+            "from_waypoint_index": 12,
+            "to_waypoint_index": 13,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 5,
+                "distance": 11
+              }
+            ]
+          },
+          {
+            "time": 5,
+            "distance": 11,
+            "from_waypoint_index": 13,
+            "to_waypoint_index": 14,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 5,
+                "distance": 11
+              }
+            ]
+          },
+          {
+            "time": 9,
+            "distance": 18,
+            "from_waypoint_index": 14,
+            "to_waypoint_index": 15,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 9,
+                "distance": 18
+              }
+            ]
+          },
+          {
+            "time": 527,
+            "distance": 1523,
+            "from_waypoint_index": 15,
+            "to_waypoint_index": 16,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 527,
+                "distance": 1523
+              }
+            ]
+          },
+          {
+            "time": 151,
+            "distance": 270,
+            "from_waypoint_index": 16,
+            "to_waypoint_index": 17,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 151,
+                "distance": 270
+              }
+            ]
+          },
+          {
+            "time": 13,
+            "distance": 26,
+            "from_waypoint_index": 17,
+            "to_waypoint_index": 18,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 13,
+                "distance": 26
+              }
+            ]
+          },
+          {
+            "time": 5,
+            "distance": 10,
+            "from_waypoint_index": 18,
+            "to_waypoint_index": 19,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 5,
+                "distance": 10
+              }
+            ]
+          },
+          {
+            "time": 161,
+            "distance": 298,
+            "from_waypoint_index": 19,
+            "to_waypoint_index": 20,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 161,
+                "distance": 298
+              }
+            ]
+          },
+          {
+            "time": 53,
+            "distance": 104,
+            "from_waypoint_index": 20,
+            "to_waypoint_index": 21,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 53,
+                "distance": 104
+              }
+            ]
+          },
+          {
+            "time": 79,
+            "distance": 155,
+            "from_waypoint_index": 21,
+            "to_waypoint_index": 22,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 79,
+                "distance": 155
+              }
+            ]
+          }
+        ],
+        "mode": "medium_truck",
+        "actions": [
+          {
+            "index": 0,
+            "type": "start",
+            "start_time": 0,
+            "duration": 0,
+            "waypoint_index": 0
+          },
+          {
+            "index": 1,
+            "type": "pickup",
+            "start_time": 159,
+            "duration": 120,
+            "shipment_index": 49,
+            "shipment_id": "order_50",
+            "waypoint_index": 1
+          },
+          {
+            "index": 2,
+            "type": "pickup",
+            "start_time": 279,
+            "duration": 120,
+            "shipment_index": 48,
+            "shipment_id": "order_49",
+            "waypoint_index": 1
+          },
+          {
+            "index": 3,
+            "type": "pickup",
+            "start_time": 407,
+            "duration": 120,
+            "shipment_index": 44,
+            "shipment_id": "order_45",
+            "waypoint_index": 2
+          },
+          {
+            "index": 4,
+            "type": "pickup",
+            "start_time": 532,
+            "duration": 120,
+            "shipment_index": 54,
+            "shipment_id": "order_55",
+            "waypoint_index": 3
+          },
+          {
+            "index": 5,
+            "type": "pickup",
+            "start_time": 796,
+            "duration": 120,
+            "shipment_index": 33,
+            "shipment_id": "order_34",
+            "waypoint_index": 4
+          },
+          {
+            "index": 6,
+            "type": "pickup",
+            "start_time": 992,
+            "duration": 120,
+            "shipment_index": 30,
+            "shipment_id": "order_31",
+            "waypoint_index": 5
+          },
+          {
+            "index": 7,
+            "type": "pickup",
+            "start_time": 1155,
+            "duration": 120,
+            "shipment_index": 35,
+            "shipment_id": "order_36",
+            "waypoint_index": 6
+          },
+          {
+            "index": 8,
+            "type": "pickup",
+            "start_time": 1318,
+            "duration": 120,
+            "shipment_index": 28,
+            "shipment_id": "order_29",
+            "waypoint_index": 7
+          },
+          {
+            "index": 9,
+            "type": "pickup",
+            "start_time": 1492,
+            "duration": 120,
+            "shipment_index": 11,
+            "shipment_id": "order_12",
+            "waypoint_index": 8
+          },
+          {
+            "index": 10,
+            "type": "pickup",
+            "start_time": 1798,
+            "duration": 120,
+            "shipment_index": 40,
+            "shipment_id": "order_41",
+            "waypoint_index": 9
+          },
+          {
+            "index": 11,
+            "type": "pickup",
+            "start_time": 2303,
+            "duration": 120,
+            "shipment_index": 77,
+            "shipment_id": "order_78",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 10
+          },
+          {
+            "index": 12,
+            "type": "pickup",
+            "start_time": 2423,
+            "duration": 120,
+            "shipment_index": 76,
+            "shipment_id": "order_77",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 10
+          },
+          {
+            "index": 13,
+            "type": "pickup",
+            "start_time": 2543,
+            "duration": 120,
+            "shipment_index": 75,
+            "shipment_id": "order_76",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 10
+          },
+          {
+            "index": 14,
+            "type": "pickup",
+            "start_time": 2663,
+            "duration": 120,
+            "shipment_index": 74,
+            "shipment_id": "order_75",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 10
+          },
+          {
+            "index": 15,
+            "type": "pickup",
+            "start_time": 2783,
+            "duration": 120,
+            "shipment_index": 72,
+            "shipment_id": "order_73",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 10
+          },
+          {
+            "index": 16,
+            "type": "pickup",
+            "start_time": 2903,
+            "duration": 120,
+            "shipment_index": 71,
+            "shipment_id": "order_72",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 10
+          },
+          {
+            "index": 17,
+            "type": "pickup",
+            "start_time": 3200,
+            "duration": 120,
+            "shipment_index": 73,
+            "shipment_id": "order_74",
+            "waypoint_index": 11
+          },
+          {
+            "index": 18,
+            "type": "delivery",
+            "start_time": 3412,
+            "duration": 120,
+            "shipment_index": 72,
+            "shipment_id": "order_73",
+            "waypoint_index": 12
+          },
+          {
+            "index": 19,
+            "type": "delivery",
+            "start_time": 3532,
+            "duration": 120,
+            "shipment_index": 71,
+            "shipment_id": "order_72",
+            "waypoint_index": 12
+          },
+          {
+            "index": 20,
+            "type": "pickup",
+            "start_time": 3657,
+            "duration": 120,
+            "shipment_index": 38,
+            "shipment_id": "order_39",
+            "waypoint_index": 13
+          },
+          {
+            "index": 21,
+            "type": "delivery",
+            "start_time": 3782,
+            "duration": 240,
+            "shipment_index": 77,
+            "shipment_id": "order_78",
+            "waypoint_index": 14
+          },
+          {
+            "index": 22,
+            "type": "delivery",
+            "start_time": 4031,
+            "duration": 300,
+            "shipment_index": 76,
+            "shipment_id": "order_77",
+            "waypoint_index": 15
+          },
+          {
+            "index": 23,
+            "type": "delivery",
+            "start_time": 4331,
+            "duration": 240,
+            "shipment_index": 75,
+            "shipment_id": "order_76",
+            "waypoint_index": 15
+          },
+          {
+            "index": 24,
+            "type": "delivery",
+            "start_time": 4571,
+            "duration": 240,
+            "shipment_index": 74,
+            "shipment_id": "order_75",
+            "waypoint_index": 15
+          },
+          {
+            "index": 25,
+            "type": "delivery",
+            "start_time": 5338,
+            "duration": 300,
+            "shipment_index": 73,
+            "shipment_id": "order_74",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 26,
+            "type": "delivery",
+            "start_time": 5638,
+            "duration": 120,
+            "shipment_index": 33,
+            "shipment_id": "order_34",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 27,
+            "type": "delivery",
+            "start_time": 5758,
+            "duration": 120,
+            "shipment_index": 38,
+            "shipment_id": "order_39",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 28,
+            "type": "delivery",
+            "start_time": 5878,
+            "duration": 120,
+            "shipment_index": 35,
+            "shipment_id": "order_36",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 29,
+            "type": "delivery",
+            "start_time": 5998,
+            "duration": 300,
+            "shipment_index": 30,
+            "shipment_id": "order_31",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 30,
+            "type": "delivery",
+            "start_time": 6298,
+            "duration": 240,
+            "shipment_index": 28,
+            "shipment_id": "order_29",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 31,
+            "type": "delivery",
+            "start_time": 6538,
+            "duration": 120,
+            "shipment_index": 11,
+            "shipment_id": "order_12",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 32,
+            "type": "pickup",
+            "start_time": 6658,
+            "duration": 120,
+            "shipment_index": 81,
+            "shipment_id": "order_82",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 33,
+            "type": "pickup",
+            "start_time": 6778,
+            "duration": 120,
+            "shipment_index": 16,
+            "shipment_id": "order_17",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 34,
+            "type": "pickup",
+            "start_time": 6898,
+            "duration": 120,
+            "shipment_index": 15,
+            "shipment_id": "order_16",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 35,
+            "type": "pickup",
+            "start_time": 7018,
+            "duration": 120,
+            "shipment_index": 14,
+            "shipment_id": "order_15",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 36,
+            "type": "pickup",
+            "start_time": 7138,
+            "duration": 120,
+            "shipment_index": 27,
+            "shipment_id": "order_28",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 37,
+            "type": "pickup",
+            "start_time": 7258,
+            "duration": 120,
+            "shipment_index": 55,
+            "shipment_id": "order_56",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 38,
+            "type": "pickup",
+            "start_time": 7378,
+            "duration": 120,
+            "shipment_index": 65,
+            "shipment_id": "order_66",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 39,
+            "type": "pickup",
+            "start_time": 7498,
+            "duration": 120,
+            "shipment_index": 64,
+            "shipment_id": "order_65",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 40,
+            "type": "pickup",
+            "start_time": 7618,
+            "duration": 120,
+            "shipment_index": 62,
+            "shipment_id": "order_63",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 41,
+            "type": "delivery",
+            "start_time": 7738,
+            "duration": 120,
+            "shipment_index": 40,
+            "shipment_id": "order_41",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 42,
+            "type": "delivery",
+            "start_time": 7858,
+            "duration": 240,
+            "shipment_index": 49,
+            "shipment_id": "order_50",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 43,
+            "type": "delivery",
+            "start_time": 8098,
+            "duration": 120,
+            "shipment_index": 48,
+            "shipment_id": "order_49",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 44,
+            "type": "delivery",
+            "start_time": 8218,
+            "duration": 120,
+            "shipment_index": 44,
+            "shipment_id": "order_45",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 45,
+            "type": "delivery",
+            "start_time": 8338,
+            "duration": 300,
+            "shipment_index": 54,
+            "shipment_id": "order_55",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 16
+          },
+          {
+            "index": 46,
+            "type": "delivery",
+            "start_time": 8789,
+            "duration": 120,
+            "shipment_index": 62,
+            "shipment_id": "order_63",
+            "waypoint_index": 17
+          },
+          {
+            "index": 47,
+            "type": "delivery",
+            "start_time": 8922,
+            "duration": 240,
+            "shipment_index": 65,
+            "shipment_id": "order_66",
+            "waypoint_index": 18
+          },
+          {
+            "index": 48,
+            "type": "delivery",
+            "start_time": 9162,
+            "duration": 120,
+            "shipment_index": 64,
+            "shipment_id": "order_65",
+            "waypoint_index": 18
+          },
+          {
+            "index": 49,
+            "type": "delivery",
+            "start_time": 9287,
+            "duration": 120,
+            "shipment_index": 55,
+            "shipment_id": "order_56",
+            "waypoint_index": 19
+          },
+          {
+            "index": 50,
+            "type": "delivery",
+            "start_time": 9568,
+            "duration": 300,
+            "shipment_index": 27,
+            "shipment_id": "order_28",
+            "waypoint_index": 20
+          },
+          {
+            "index": 51,
+            "type": "delivery",
+            "start_time": 9921,
+            "duration": 120,
+            "shipment_index": 16,
+            "shipment_id": "order_17",
+            "waypoint_index": 21
+          },
+          {
+            "index": 52,
+            "type": "delivery",
+            "start_time": 10041,
+            "duration": 300,
+            "shipment_index": 15,
+            "shipment_id": "order_16",
+            "waypoint_index": 21
+          },
+          {
+            "index": 53,
+            "type": "delivery",
+            "start_time": 10341,
+            "duration": 120,
+            "shipment_index": 14,
+            "shipment_id": "order_15",
+            "waypoint_index": 21
+          },
+          {
+            "index": 54,
+            "type": "delivery",
+            "start_time": 10540,
+            "duration": 240,
+            "shipment_index": 81,
+            "shipment_id": "order_82",
+            "waypoint_index": 22
+          },
+          {
+            "index": 55,
+            "type": "end",
+            "start_time": 10780,
+            "duration": 0
+          }
+        ],
+        "waypoints": [
+          {
+            "original_location": [
+              24.111942246285956,
+              56.947498350000004
+            ],
+            "location": [
+              24.111942,
+              56.947498
+            ],
+            "start_time": 0,
+            "duration": 0,
+            "actions": [
+              {
+                "index": 0,
+                "type": "start",
+                "start_time": 0,
+                "duration": 0,
+                "waypoint_index": 0
+              }
+            ],
+            "next_leg_index": 0
+          },
+          {
+            "original_location": [
+              24.11353354421754,
+              56.9470256
+            ],
+            "location": [
+              24.113534,
+              56.947026
+            ],
+            "start_time": 159,
+            "duration": 240,
+            "actions": [
+              {
+                "index": 1,
+                "type": "pickup",
+                "start_time": 159,
+                "duration": 120,
+                "shipment_index": 49,
+                "shipment_id": "order_50",
+                "waypoint_index": 1
+              },
+              {
+                "index": 2,
+                "type": "pickup",
+                "start_time": 279,
+                "duration": 120,
+                "shipment_index": 48,
+                "shipment_id": "order_49",
+                "waypoint_index": 1
+              }
+            ],
+            "prev_leg_index": 0,
+            "next_leg_index": 1
+          },
+          {
+            "original_location": [
+              24.113455152990475,
+              56.94715705
+            ],
+            "location": [
+              24.113455,
+              56.947157
+            ],
+            "start_time": 407,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 3,
+                "type": "pickup",
+                "start_time": 407,
+                "duration": 120,
+                "shipment_index": 44,
+                "shipment_id": "order_45",
+                "waypoint_index": 2
+              }
+            ],
+            "prev_leg_index": 1,
+            "next_leg_index": 2
+          },
+          {
+            "original_location": [
+              24.113404399621455,
+              56.947244749999996
+            ],
+            "location": [
+              24.113404,
+              56.947245
+            ],
+            "start_time": 532,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 4,
+                "type": "pickup",
+                "start_time": 532,
+                "duration": 120,
+                "shipment_index": 54,
+                "shipment_id": "order_55",
+                "waypoint_index": 3
+              }
+            ],
+            "prev_leg_index": 2,
+            "next_leg_index": 3
+          },
+          {
+            "original_location": [
+              24.1120465097733,
+              56.949064199999995
+            ],
+            "location": [
+              24.112047,
+              56.949064
+            ],
+            "start_time": 796,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 5,
+                "type": "pickup",
+                "start_time": 796,
+                "duration": 120,
+                "shipment_index": 33,
+                "shipment_id": "order_34",
+                "waypoint_index": 4
+              }
+            ],
+            "prev_leg_index": 3,
+            "next_leg_index": 4
+          },
+          {
+            "original_location": [
+              24.1115931709442,
+              56.948989499999996
+            ],
+            "location": [
+              24.111593,
+              56.94899
+            ],
+            "start_time": 992,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 6,
+                "type": "pickup",
+                "start_time": 992,
+                "duration": 120,
+                "shipment_index": 30,
+                "shipment_id": "order_31",
+                "waypoint_index": 5
+              }
+            ],
+            "prev_leg_index": 4,
+            "next_leg_index": 5
+          },
+          {
+            "original_location": [
+              24.10966985467359,
+              56.9487742
+            ],
+            "location": [
+              24.10967,
+              56.948774
+            ],
+            "start_time": 1155,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 7,
+                "type": "pickup",
+                "start_time": 1155,
+                "duration": 120,
+                "shipment_index": 35,
+                "shipment_id": "order_36",
+                "waypoint_index": 6
+              }
+            ],
+            "prev_leg_index": 5,
+            "next_leg_index": 6
+          },
+          {
+            "original_location": [
+              24.11073446778953,
+              56.94873685
+            ],
+            "location": [
+              24.110734,
+              56.948737
+            ],
+            "start_time": 1318,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 8,
+                "type": "pickup",
+                "start_time": 1318,
+                "duration": 120,
+                "shipment_index": 28,
+                "shipment_id": "order_29",
+                "waypoint_index": 7
+              }
+            ],
+            "prev_leg_index": 6,
+            "next_leg_index": 7
+          },
+          {
+            "original_location": [
+              24.11098139578923,
+              56.94825205
+            ],
+            "location": [
+              24.110981,
+              56.948252
+            ],
+            "start_time": 1492,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 9,
+                "type": "pickup",
+                "start_time": 1492,
+                "duration": 120,
+                "shipment_index": 11,
+                "shipment_id": "order_12",
+                "waypoint_index": 8
+              }
+            ],
+            "prev_leg_index": 7,
+            "next_leg_index": 8
+          },
+          {
+            "original_location": [
+              24.114523960704354,
+              56.94716365
+            ],
+            "location": [
+              24.114524,
+              56.947164
+            ],
+            "start_time": 1798,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 10,
+                "type": "pickup",
+                "start_time": 1798,
+                "duration": 120,
+                "shipment_index": 40,
+                "shipment_id": "order_41",
+                "waypoint_index": 9
+              }
+            ],
+            "prev_leg_index": 8,
+            "next_leg_index": 9
+          },
+          {
+            "original_location": [
+              24.1084952,
+              56.9463762
+            ],
+            "location": [
+              24.108495,
+              56.946376
+            ],
+            "start_time": 2303,
+            "duration": 720,
+            "actions": [
+              {
+                "index": 11,
+                "type": "pickup",
+                "start_time": 2303,
+                "duration": 120,
+                "shipment_index": 77,
+                "shipment_id": "order_78",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 10
+              },
+              {
+                "index": 12,
+                "type": "pickup",
+                "start_time": 2423,
+                "duration": 120,
+                "shipment_index": 76,
+                "shipment_id": "order_77",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 10
+              },
+              {
+                "index": 13,
+                "type": "pickup",
+                "start_time": 2543,
+                "duration": 120,
+                "shipment_index": 75,
+                "shipment_id": "order_76",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 10
+              },
+              {
+                "index": 14,
+                "type": "pickup",
+                "start_time": 2663,
+                "duration": 120,
+                "shipment_index": 74,
+                "shipment_id": "order_75",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 10
+              },
+              {
+                "index": 15,
+                "type": "pickup",
+                "start_time": 2783,
+                "duration": 120,
+                "shipment_index": 72,
+                "shipment_id": "order_73",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 10
+              },
+              {
+                "index": 16,
+                "type": "pickup",
+                "start_time": 2903,
+                "duration": 120,
+                "shipment_index": 71,
+                "shipment_id": "order_72",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 10
+              }
+            ],
+            "original_location_index": 0,
+            "original_location_id": "warehouse-0",
+            "prev_leg_index": 9,
+            "next_leg_index": 10
+          },
+          {
+            "original_location": [
+              24.109304154251085,
+              56.94839487986856
+            ],
+            "location": [
+              24.109304,
+              56.948395
+            ],
+            "start_time": 3200,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 17,
+                "type": "pickup",
+                "start_time": 3200,
+                "duration": 120,
+                "shipment_index": 73,
+                "shipment_id": "order_74",
+                "waypoint_index": 11
+              }
+            ],
+            "prev_leg_index": 10,
+            "next_leg_index": 11
+          },
+          {
+            "original_location": [
+              24.109393892451774,
+              56.94856645842906
+            ],
+            "location": [
+              24.109394,
+              56.948566
+            ],
+            "start_time": 3412,
+            "duration": 240,
+            "actions": [
+              {
+                "index": 18,
+                "type": "delivery",
+                "start_time": 3412,
+                "duration": 120,
+                "shipment_index": 72,
+                "shipment_id": "order_73",
+                "waypoint_index": 12
+              },
+              {
+                "index": 19,
+                "type": "delivery",
+                "start_time": 3532,
+                "duration": 120,
+                "shipment_index": 71,
+                "shipment_id": "order_72",
+                "waypoint_index": 12
+              }
+            ],
+            "prev_leg_index": 11,
+            "next_leg_index": 12
+          },
+          {
+            "original_location": [
+              24.110275132793106,
+              56.94851585
+            ],
+            "location": [
+              24.110275,
+              56.948516
+            ],
+            "start_time": 3657,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 20,
+                "type": "pickup",
+                "start_time": 3657,
+                "duration": 120,
+                "shipment_index": 38,
+                "shipment_id": "order_39",
+                "waypoint_index": 13
+              }
+            ],
+            "prev_leg_index": 12,
+            "next_leg_index": 13
+          },
+          {
+            "original_location": [
+              24.109979197416383,
+              56.94816376562906
+            ],
+            "location": [
+              24.109979,
+              56.948164
+            ],
+            "start_time": 3782,
+            "duration": 240,
+            "actions": [
+              {
+                "index": 21,
+                "type": "delivery",
+                "start_time": 3782,
+                "duration": 240,
+                "shipment_index": 77,
+                "shipment_id": "order_78",
+                "waypoint_index": 14
+              }
+            ],
+            "prev_leg_index": 13,
+            "next_leg_index": 14
+          },
+          {
+            "original_location": [
+              24.110629627980614,
+              56.94820903570999
+            ],
+            "location": [
+              24.11063,
+              56.948209
+            ],
+            "start_time": 4031,
+            "duration": 780,
+            "actions": [
+              {
+                "index": 22,
+                "type": "delivery",
+                "start_time": 4031,
+                "duration": 300,
+                "shipment_index": 76,
+                "shipment_id": "order_77",
+                "waypoint_index": 15
+              },
+              {
+                "index": 23,
+                "type": "delivery",
+                "start_time": 4331,
+                "duration": 240,
+                "shipment_index": 75,
+                "shipment_id": "order_76",
+                "waypoint_index": 15
+              },
+              {
+                "index": 24,
+                "type": "delivery",
+                "start_time": 4571,
+                "duration": 240,
+                "shipment_index": 74,
+                "shipment_id": "order_75",
+                "waypoint_index": 15
+              }
+            ],
+            "prev_leg_index": 14,
+            "next_leg_index": 15
+          },
+          {
+            "original_location": [
+              24.1084952,
+              56.9463762
+            ],
+            "location": [
+              24.108495,
+              56.946376
+            ],
+            "start_time": 5338,
+            "duration": 3300,
+            "actions": [
+              {
+                "index": 25,
+                "type": "delivery",
+                "start_time": 5338,
+                "duration": 300,
+                "shipment_index": 73,
+                "shipment_id": "order_74",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 26,
+                "type": "delivery",
+                "start_time": 5638,
+                "duration": 120,
+                "shipment_index": 33,
+                "shipment_id": "order_34",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 27,
+                "type": "delivery",
+                "start_time": 5758,
+                "duration": 120,
+                "shipment_index": 38,
+                "shipment_id": "order_39",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 28,
+                "type": "delivery",
+                "start_time": 5878,
+                "duration": 120,
+                "shipment_index": 35,
+                "shipment_id": "order_36",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 29,
+                "type": "delivery",
+                "start_time": 5998,
+                "duration": 300,
+                "shipment_index": 30,
+                "shipment_id": "order_31",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 30,
+                "type": "delivery",
+                "start_time": 6298,
+                "duration": 240,
+                "shipment_index": 28,
+                "shipment_id": "order_29",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 31,
+                "type": "delivery",
+                "start_time": 6538,
+                "duration": 120,
+                "shipment_index": 11,
+                "shipment_id": "order_12",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 32,
+                "type": "pickup",
+                "start_time": 6658,
+                "duration": 120,
+                "shipment_index": 81,
+                "shipment_id": "order_82",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 33,
+                "type": "pickup",
+                "start_time": 6778,
+                "duration": 120,
+                "shipment_index": 16,
+                "shipment_id": "order_17",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 34,
+                "type": "pickup",
+                "start_time": 6898,
+                "duration": 120,
+                "shipment_index": 15,
+                "shipment_id": "order_16",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 35,
+                "type": "pickup",
+                "start_time": 7018,
+                "duration": 120,
+                "shipment_index": 14,
+                "shipment_id": "order_15",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 36,
+                "type": "pickup",
+                "start_time": 7138,
+                "duration": 120,
+                "shipment_index": 27,
+                "shipment_id": "order_28",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 37,
+                "type": "pickup",
+                "start_time": 7258,
+                "duration": 120,
+                "shipment_index": 55,
+                "shipment_id": "order_56",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 38,
+                "type": "pickup",
+                "start_time": 7378,
+                "duration": 120,
+                "shipment_index": 65,
+                "shipment_id": "order_66",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 39,
+                "type": "pickup",
+                "start_time": 7498,
+                "duration": 120,
+                "shipment_index": 64,
+                "shipment_id": "order_65",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 40,
+                "type": "pickup",
+                "start_time": 7618,
+                "duration": 120,
+                "shipment_index": 62,
+                "shipment_id": "order_63",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 41,
+                "type": "delivery",
+                "start_time": 7738,
+                "duration": 120,
+                "shipment_index": 40,
+                "shipment_id": "order_41",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 42,
+                "type": "delivery",
+                "start_time": 7858,
+                "duration": 240,
+                "shipment_index": 49,
+                "shipment_id": "order_50",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 43,
+                "type": "delivery",
+                "start_time": 8098,
+                "duration": 120,
+                "shipment_index": 48,
+                "shipment_id": "order_49",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 44,
+                "type": "delivery",
+                "start_time": 8218,
+                "duration": 120,
+                "shipment_index": 44,
+                "shipment_id": "order_45",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              },
+              {
+                "index": 45,
+                "type": "delivery",
+                "start_time": 8338,
+                "duration": 300,
+                "shipment_index": 54,
+                "shipment_id": "order_55",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 16
+              }
+            ],
+            "original_location_index": 0,
+            "original_location_id": "warehouse-0",
+            "prev_leg_index": 15,
+            "next_leg_index": 16
+          },
+          {
+            "original_location": [
+              24.10627439642525,
+              56.948280100000005
+            ],
+            "location": [
+              24.106274,
+              56.94828
+            ],
+            "start_time": 8789,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 46,
+                "type": "delivery",
+                "start_time": 8789,
+                "duration": 120,
+                "shipment_index": 62,
+                "shipment_id": "order_63",
+                "waypoint_index": 17
+              }
+            ],
+            "prev_leg_index": 16,
+            "next_leg_index": 17
+          },
+          {
+            "original_location": [
+              24.106335897605895,
+              56.94853675
+            ],
+            "location": [
+              24.106336,
+              56.948537
+            ],
+            "start_time": 8922,
+            "duration": 360,
+            "actions": [
+              {
+                "index": 47,
+                "type": "delivery",
+                "start_time": 8922,
+                "duration": 240,
+                "shipment_index": 65,
+                "shipment_id": "order_66",
+                "waypoint_index": 18
+              },
+              {
+                "index": 48,
+                "type": "delivery",
+                "start_time": 9162,
+                "duration": 120,
+                "shipment_index": 64,
+                "shipment_id": "order_65",
+                "waypoint_index": 18
+              }
+            ],
+            "prev_leg_index": 17,
+            "next_leg_index": 18
+          },
+          {
+            "original_location": [
+              24.106260113675432,
+              56.9489877
+            ],
+            "location": [
+              24.10626,
+              56.948988
+            ],
+            "start_time": 9287,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 49,
+                "type": "delivery",
+                "start_time": 9287,
+                "duration": 120,
+                "shipment_index": 55,
+                "shipment_id": "order_56",
+                "waypoint_index": 19
+              }
+            ],
+            "prev_leg_index": 18,
+            "next_leg_index": 19
+          },
+          {
+            "original_location": [
+              24.10268887216613,
+              56.949033
+            ],
+            "location": [
+              24.102689,
+              56.949033
+            ],
+            "start_time": 9568,
+            "duration": 300,
+            "actions": [
+              {
+                "index": 50,
+                "type": "delivery",
+                "start_time": 9568,
+                "duration": 300,
+                "shipment_index": 27,
+                "shipment_id": "order_28",
+                "waypoint_index": 20
+              }
+            ],
+            "prev_leg_index": 19,
+            "next_leg_index": 20
+          },
+          {
+            "original_location": [
+              24.10384358706679,
+              56.94836925
+            ],
+            "location": [
+              24.103844,
+              56.948369
+            ],
+            "start_time": 9921,
+            "duration": 540,
+            "actions": [
+              {
+                "index": 51,
+                "type": "delivery",
+                "start_time": 9921,
+                "duration": 120,
+                "shipment_index": 16,
+                "shipment_id": "order_17",
+                "waypoint_index": 21
+              },
+              {
+                "index": 52,
+                "type": "delivery",
+                "start_time": 10041,
+                "duration": 300,
+                "shipment_index": 15,
+                "shipment_id": "order_16",
+                "waypoint_index": 21
+              },
+              {
+                "index": 53,
+                "type": "delivery",
+                "start_time": 10341,
+                "duration": 120,
+                "shipment_index": 14,
+                "shipment_id": "order_15",
+                "waypoint_index": 21
+              }
+            ],
+            "prev_leg_index": 20,
+            "next_leg_index": 21
+          },
+          {
+            "original_location": [
+              24.104493374798025,
+              56.949681850000005
+            ],
+            "location": [
+              24.104493,
+              56.949682
+            ],
+            "start_time": 10540,
+            "duration": 240,
+            "actions": [
+              {
+                "index": 54,
+                "type": "delivery",
+                "start_time": 10540,
+                "duration": 240,
+                "shipment_index": 81,
+                "shipment_id": "order_82",
+                "waypoint_index": 22
+              }
+            ],
+            "prev_leg_index": 21
+          }
+        ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              24.10282,
+              56.954741
+            ],
+            [
+              24.101195,
+              56.954142
+            ]
+          ],
+          [
+            [
+              24.101195,
+              56.954142
+            ],
+            [
+              24.103844,
+              56.948369
+            ]
+          ],
+          [
+            [
+              24.103844,
+              56.948369
+            ],
+            [
+              24.096131,
+              56.942734
+            ]
+          ],
+          [
+            [
+              24.096131,
+              56.942734
+            ],
+            [
+              24.108495,
+              56.946376
+            ]
+          ],
+          [
+            [
+              24.108495,
+              56.946376
+            ],
+            [
+              24.101195,
+              56.954142
+            ]
+          ],
+          [
+            [
+              24.101195,
+              56.954142
+            ],
+            [
+              24.10974,
+              56.950454
+            ]
+          ],
+          [
+            [
+              24.10974,
+              56.950454
+            ],
+            [
+              24.106827,
+              56.949038
+            ]
+          ],
+          [
+            [
+              24.106827,
+              56.949038
+            ],
+            [
+              24.106269,
+              56.949088
+            ]
+          ],
+          [
+            [
+              24.106269,
+              56.949088
+            ],
+            [
+              24.106911,
+              56.949176
+            ]
+          ],
+          [
+            [
+              24.106911,
+              56.949176
+            ],
+            [
+              24.106834,
+              56.948918
+            ]
+          ],
+          [
+            [
+              24.106834,
+              56.948918
+            ],
+            [
+              24.111826,
+              56.94916
+            ]
+          ],
+          [
+            [
+              24.111826,
+              56.94916
+            ],
+            [
+              24.111474,
+              56.948816
+            ]
+          ],
+          [
+            [
+              24.111474,
+              56.948816
+            ],
+            [
+              24.109829,
+              56.94868
+            ]
+          ],
+          [
+            [
+              24.109829,
+              56.94868
+            ],
+            [
+              24.110008,
+              56.948922
+            ]
+          ],
+          [
+            [
+              24.110008,
+              56.948922
+            ],
+            [
+              24.10967,
+              56.948774
+            ]
+          ],
+          [
+            [
+              24.10967,
+              56.948774
+            ],
+            [
+              24.110275,
+              56.948516
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "agent_index": 2,
+        "time": 10491,
+        "start_time": 0,
+        "end_time": 10491,
+        "distance": 12146,
+        "legs": [
+          {
+            "time": 250,
+            "distance": 394,
+            "from_waypoint_index": 0,
+            "to_waypoint_index": 1,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 250,
+                "distance": 394
+              }
+            ]
+          },
+          {
+            "time": 592,
+            "distance": 2181,
+            "from_waypoint_index": 1,
+            "to_waypoint_index": 2,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 592,
+                "distance": 2181
+              }
+            ]
+          },
+          {
+            "time": 449,
+            "distance": 1890,
+            "from_waypoint_index": 2,
+            "to_waypoint_index": 3,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 449,
+                "distance": 1890
+              }
+            ]
+          },
+          {
+            "time": 603,
+            "distance": 2328,
+            "from_waypoint_index": 3,
+            "to_waypoint_index": 4,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 603,
+                "distance": 2328
+              }
+            ]
+          },
+          {
+            "time": 619,
+            "distance": 2107,
+            "from_waypoint_index": 4,
+            "to_waypoint_index": 5,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 619,
+                "distance": 2107
+              }
+            ]
+          },
+          {
+            "time": 390,
+            "distance": 1061,
+            "from_waypoint_index": 5,
+            "to_waypoint_index": 6,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 390,
+                "distance": 1061
+              }
+            ]
+          },
+          {
+            "time": 241,
+            "distance": 387,
+            "from_waypoint_index": 6,
+            "to_waypoint_index": 7,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 241,
+                "distance": 387
+              }
+            ]
+          },
+          {
+            "time": 14,
+            "distance": 28,
+            "from_waypoint_index": 7,
+            "to_waypoint_index": 8,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 14,
+                "distance": 28
+              }
+            ]
+          },
+          {
+            "time": 11,
+            "distance": 22,
+            "from_waypoint_index": 8,
+            "to_waypoint_index": 9,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 11,
+                "distance": 22
+              }
+            ]
+          },
+          {
+            "time": 235,
+            "distance": 348,
+            "from_waypoint_index": 9,
+            "to_waypoint_index": 10,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 235,
+                "distance": 348
+              }
+            ]
+          },
+          {
+            "time": 489,
+            "distance": 1093,
+            "from_waypoint_index": 10,
+            "to_waypoint_index": 11,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 489,
+                "distance": 1093
+              }
+            ]
+          },
+          {
+            "time": 73,
+            "distance": 109,
+            "from_waypoint_index": 11,
+            "to_waypoint_index": 12,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 73,
+                "distance": 109
+              }
+            ]
+          },
+          {
+            "time": 40,
+            "distance": 79,
+            "from_waypoint_index": 12,
+            "to_waypoint_index": 13,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 40,
+                "distance": 79
+              }
+            ]
+          },
+          {
+            "time": 2,
+            "distance": 6,
+            "from_waypoint_index": 13,
+            "to_waypoint_index": 14,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 2,
+                "distance": 6
+              }
+            ]
+          },
+          {
+            "time": 2,
+            "distance": 5,
+            "from_waypoint_index": 14,
+            "to_waypoint_index": 15,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 2,
+                "distance": 5
+              }
+            ]
+          },
+          {
+            "time": 61,
+            "distance": 108,
+            "from_waypoint_index": 15,
+            "to_waypoint_index": 16,
+            "steps": [
+              {
+                "from_index": 0,
+                "to_index": 1,
+                "time": 61,
+                "distance": 108
+              }
+            ]
+          }
+        ],
+        "mode": "medium_truck",
+        "actions": [
+          {
+            "index": 0,
+            "type": "start",
+            "start_time": 0,
+            "duration": 0,
+            "waypoint_index": 0
+          },
+          {
+            "index": 1,
+            "type": "pickup",
+            "start_time": 250,
+            "duration": 120,
+            "shipment_index": 5,
+            "shipment_id": "order_6",
+            "waypoint_index": 1
+          },
+          {
+            "index": 2,
+            "type": "pickup",
+            "start_time": 962,
+            "duration": 120,
+            "shipment_index": 17,
+            "shipment_id": "order_18",
+            "waypoint_index": 2
+          },
+          {
+            "index": 3,
+            "type": "pickup",
+            "start_time": 1531,
+            "duration": 120,
+            "shipment_index": 10,
+            "shipment_id": "order_11",
+            "waypoint_index": 3
+          },
+          {
+            "index": 4,
+            "type": "pickup",
+            "start_time": 2254,
+            "duration": 120,
+            "shipment_index": 39,
+            "shipment_id": "order_40",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 5,
+            "type": "pickup",
+            "start_time": 2374,
+            "duration": 120,
+            "shipment_index": 37,
+            "shipment_id": "order_38",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 6,
+            "type": "pickup",
+            "start_time": 2494,
+            "duration": 120,
+            "shipment_index": 36,
+            "shipment_id": "order_37",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 7,
+            "type": "pickup",
+            "start_time": 2614,
+            "duration": 120,
+            "shipment_index": 34,
+            "shipment_id": "order_35",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 8,
+            "type": "pickup",
+            "start_time": 2734,
+            "duration": 120,
+            "shipment_index": 32,
+            "shipment_id": "order_33",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 9,
+            "type": "pickup",
+            "start_time": 2854,
+            "duration": 120,
+            "shipment_index": 31,
+            "shipment_id": "order_32",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 10,
+            "type": "pickup",
+            "start_time": 2974,
+            "duration": 120,
+            "shipment_index": 29,
+            "shipment_id": "order_30",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 11,
+            "type": "pickup",
+            "start_time": 3094,
+            "duration": 120,
+            "shipment_index": 58,
+            "shipment_id": "order_59",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 12,
+            "type": "pickup",
+            "start_time": 3214,
+            "duration": 120,
+            "shipment_index": 66,
+            "shipment_id": "order_67",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 13,
+            "type": "pickup",
+            "start_time": 3334,
+            "duration": 120,
+            "shipment_index": 61,
+            "shipment_id": "order_62",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 14,
+            "type": "pickup",
+            "start_time": 3454,
+            "duration": 120,
+            "shipment_index": 60,
+            "shipment_id": "order_61",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 15,
+            "type": "pickup",
+            "start_time": 3574,
+            "duration": 120,
+            "shipment_index": 57,
+            "shipment_id": "order_58",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 16,
+            "type": "pickup",
+            "start_time": 3694,
+            "duration": 120,
+            "shipment_index": 56,
+            "shipment_id": "order_57",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 17,
+            "type": "pickup",
+            "start_time": 3814,
+            "duration": 120,
+            "shipment_index": 18,
+            "shipment_id": "order_19",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 18,
+            "type": "pickup",
+            "start_time": 3934,
+            "duration": 120,
+            "shipment_index": 4,
+            "shipment_id": "order_5",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 19,
+            "type": "pickup",
+            "start_time": 4054,
+            "duration": 120,
+            "shipment_index": 3,
+            "shipment_id": "order_4",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 20,
+            "type": "pickup",
+            "start_time": 4174,
+            "duration": 120,
+            "shipment_index": 2,
+            "shipment_id": "order_3",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 21,
+            "type": "delivery",
+            "start_time": 4294,
+            "duration": 120,
+            "shipment_index": 17,
+            "shipment_id": "order_18",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 22,
+            "type": "delivery",
+            "start_time": 4414,
+            "duration": 120,
+            "shipment_index": 10,
+            "shipment_id": "order_11",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 23,
+            "type": "delivery",
+            "start_time": 4534,
+            "duration": 240,
+            "shipment_index": 5,
+            "shipment_id": "order_6",
+            "location_index": 0,
+            "location_id": "warehouse-0",
+            "waypoint_index": 4
+          },
+          {
+            "index": 24,
+            "type": "delivery",
+            "start_time": 5393,
+            "duration": 240,
+            "shipment_index": 4,
+            "shipment_id": "order_5",
+            "waypoint_index": 5
+          },
+          {
+            "index": 25,
+            "type": "delivery",
+            "start_time": 5633,
+            "duration": 120,
+            "shipment_index": 3,
+            "shipment_id": "order_4",
+            "waypoint_index": 5
+          },
+          {
+            "index": 26,
+            "type": "delivery",
+            "start_time": 5753,
+            "duration": 300,
+            "shipment_index": 2,
+            "shipment_id": "order_3",
+            "waypoint_index": 5
+          },
+          {
+            "index": 27,
+            "type": "delivery",
+            "start_time": 6443,
+            "duration": 240,
+            "shipment_index": 18,
+            "shipment_id": "order_19",
+            "waypoint_index": 6
+          },
+          {
+            "index": 28,
+            "type": "delivery",
+            "start_time": 6924,
+            "duration": 300,
+            "shipment_index": 57,
+            "shipment_id": "order_58",
+            "waypoint_index": 7
+          },
+          {
+            "index": 29,
+            "type": "delivery",
+            "start_time": 7224,
+            "duration": 120,
+            "shipment_index": 56,
+            "shipment_id": "order_57",
+            "waypoint_index": 7
+          },
+          {
+            "index": 30,
+            "type": "delivery",
+            "start_time": 7358,
+            "duration": 300,
+            "shipment_index": 66,
+            "shipment_id": "order_67",
+            "waypoint_index": 8
+          },
+          {
+            "index": 31,
+            "type": "delivery",
+            "start_time": 7669,
+            "duration": 120,
+            "shipment_index": 61,
+            "shipment_id": "order_62",
+            "waypoint_index": 9
+          },
+          {
+            "index": 32,
+            "type": "delivery",
+            "start_time": 7789,
+            "duration": 120,
+            "shipment_index": 60,
+            "shipment_id": "order_61",
+            "waypoint_index": 9
+          },
+          {
+            "index": 33,
+            "type": "delivery",
+            "start_time": 8144,
+            "duration": 120,
+            "shipment_index": 58,
+            "shipment_id": "order_59",
+            "waypoint_index": 10
+          },
+          {
+            "index": 34,
+            "type": "delivery",
+            "start_time": 8753,
+            "duration": 120,
+            "shipment_index": 39,
+            "shipment_id": "order_40",
+            "waypoint_index": 11
+          },
+          {
+            "index": 35,
+            "type": "delivery",
+            "start_time": 8946,
+            "duration": 240,
+            "shipment_index": 32,
+            "shipment_id": "order_33",
+            "waypoint_index": 12
+          },
+          {
+            "index": 36,
+            "type": "delivery",
+            "start_time": 9186,
+            "duration": 300,
+            "shipment_index": 31,
+            "shipment_id": "order_32",
+            "waypoint_index": 12
+          },
+          {
+            "index": 37,
+            "type": "delivery",
+            "start_time": 9526,
+            "duration": 120,
+            "shipment_index": 36,
+            "shipment_id": "order_37",
+            "waypoint_index": 13
+          },
+          {
+            "index": 38,
+            "type": "delivery",
+            "start_time": 9648,
+            "duration": 300,
+            "shipment_index": 29,
+            "shipment_id": "order_30",
+            "waypoint_index": 14
+          },
+          {
+            "index": 39,
+            "type": "delivery",
+            "start_time": 9950,
+            "duration": 240,
+            "shipment_index": 34,
+            "shipment_id": "order_35",
+            "waypoint_index": 15
+          },
+          {
+            "index": 40,
+            "type": "delivery",
+            "start_time": 10251,
+            "duration": 240,
+            "shipment_index": 37,
+            "shipment_id": "order_38",
+            "waypoint_index": 16
+          },
+          {
+            "index": 41,
+            "type": "end",
+            "start_time": 10491,
+            "duration": 0
+          }
+        ],
+        "waypoints": [
+          {
+            "original_location": [
+              24.1028196,
+              56.9547411
+            ],
+            "location": [
+              24.10282,
+              56.954741
+            ],
+            "start_time": 0,
+            "duration": 0,
+            "actions": [
+              {
+                "index": 0,
+                "type": "start",
+                "start_time": 0,
+                "duration": 0,
+                "waypoint_index": 0
+              }
+            ],
+            "next_leg_index": 0
+          },
+          {
+            "original_location": [
+              24.101194963361763,
+              56.9541423
+            ],
+            "location": [
+              24.101195,
+              56.954142
+            ],
+            "start_time": 250,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 1,
+                "type": "pickup",
+                "start_time": 250,
+                "duration": 120,
+                "shipment_index": 5,
+                "shipment_id": "order_6",
+                "waypoint_index": 1
+              }
+            ],
+            "prev_leg_index": 0,
+            "next_leg_index": 1
+          },
+          {
+            "original_location": [
+              24.10384358706679,
+              56.94836925
+            ],
+            "location": [
+              24.103844,
+              56.948369
+            ],
+            "start_time": 962,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 2,
+                "type": "pickup",
+                "start_time": 962,
+                "duration": 120,
+                "shipment_index": 17,
+                "shipment_id": "order_18",
+                "waypoint_index": 2
+              }
+            ],
+            "prev_leg_index": 1,
+            "next_leg_index": 2
+          },
+          {
+            "original_location": [
+              24.096131012777235,
+              56.942734200000004
+            ],
+            "location": [
+              24.096131,
+              56.942734
+            ],
+            "start_time": 1531,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 3,
+                "type": "pickup",
+                "start_time": 1531,
+                "duration": 120,
+                "shipment_index": 10,
+                "shipment_id": "order_11",
+                "waypoint_index": 3
+              }
+            ],
+            "prev_leg_index": 2,
+            "next_leg_index": 3
+          },
+          {
+            "original_location": [
+              24.1084952,
+              56.9463762
+            ],
+            "location": [
+              24.108495,
+              56.946376
+            ],
+            "start_time": 2254,
+            "duration": 2520,
+            "actions": [
+              {
+                "index": 4,
+                "type": "pickup",
+                "start_time": 2254,
+                "duration": 120,
+                "shipment_index": 39,
+                "shipment_id": "order_40",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              },
+              {
+                "index": 5,
+                "type": "pickup",
+                "start_time": 2374,
+                "duration": 120,
+                "shipment_index": 37,
+                "shipment_id": "order_38",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              },
+              {
+                "index": 6,
+                "type": "pickup",
+                "start_time": 2494,
+                "duration": 120,
+                "shipment_index": 36,
+                "shipment_id": "order_37",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              },
+              {
+                "index": 7,
+                "type": "pickup",
+                "start_time": 2614,
+                "duration": 120,
+                "shipment_index": 34,
+                "shipment_id": "order_35",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              },
+              {
+                "index": 8,
+                "type": "pickup",
+                "start_time": 2734,
+                "duration": 120,
+                "shipment_index": 32,
+                "shipment_id": "order_33",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              },
+              {
+                "index": 9,
+                "type": "pickup",
+                "start_time": 2854,
+                "duration": 120,
+                "shipment_index": 31,
+                "shipment_id": "order_32",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              },
+              {
+                "index": 10,
+                "type": "pickup",
+                "start_time": 2974,
+                "duration": 120,
+                "shipment_index": 29,
+                "shipment_id": "order_30",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              },
+              {
+                "index": 11,
+                "type": "pickup",
+                "start_time": 3094,
+                "duration": 120,
+                "shipment_index": 58,
+                "shipment_id": "order_59",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              },
+              {
+                "index": 12,
+                "type": "pickup",
+                "start_time": 3214,
+                "duration": 120,
+                "shipment_index": 66,
+                "shipment_id": "order_67",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              },
+              {
+                "index": 13,
+                "type": "pickup",
+                "start_time": 3334,
+                "duration": 120,
+                "shipment_index": 61,
+                "shipment_id": "order_62",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              },
+              {
+                "index": 14,
+                "type": "pickup",
+                "start_time": 3454,
+                "duration": 120,
+                "shipment_index": 60,
+                "shipment_id": "order_61",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              },
+              {
+                "index": 15,
+                "type": "pickup",
+                "start_time": 3574,
+                "duration": 120,
+                "shipment_index": 57,
+                "shipment_id": "order_58",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              },
+              {
+                "index": 16,
+                "type": "pickup",
+                "start_time": 3694,
+                "duration": 120,
+                "shipment_index": 56,
+                "shipment_id": "order_57",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              },
+              {
+                "index": 17,
+                "type": "pickup",
+                "start_time": 3814,
+                "duration": 120,
+                "shipment_index": 18,
+                "shipment_id": "order_19",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              },
+              {
+                "index": 18,
+                "type": "pickup",
+                "start_time": 3934,
+                "duration": 120,
+                "shipment_index": 4,
+                "shipment_id": "order_5",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              },
+              {
+                "index": 19,
+                "type": "pickup",
+                "start_time": 4054,
+                "duration": 120,
+                "shipment_index": 3,
+                "shipment_id": "order_4",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              },
+              {
+                "index": 20,
+                "type": "pickup",
+                "start_time": 4174,
+                "duration": 120,
+                "shipment_index": 2,
+                "shipment_id": "order_3",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              },
+              {
+                "index": 21,
+                "type": "delivery",
+                "start_time": 4294,
+                "duration": 120,
+                "shipment_index": 17,
+                "shipment_id": "order_18",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              },
+              {
+                "index": 22,
+                "type": "delivery",
+                "start_time": 4414,
+                "duration": 120,
+                "shipment_index": 10,
+                "shipment_id": "order_11",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              },
+              {
+                "index": 23,
+                "type": "delivery",
+                "start_time": 4534,
+                "duration": 240,
+                "shipment_index": 5,
+                "shipment_id": "order_6",
+                "location_index": 0,
+                "location_id": "warehouse-0",
+                "waypoint_index": 4
+              }
+            ],
+            "original_location_index": 0,
+            "original_location_id": "warehouse-0",
+            "prev_leg_index": 3,
+            "next_leg_index": 4
+          },
+          {
+            "original_location": [
+              24.101194963361763,
+              56.9541423
+            ],
+            "location": [
+              24.101195,
+              56.954142
+            ],
+            "start_time": 5393,
+            "duration": 660,
+            "actions": [
+              {
+                "index": 24,
+                "type": "delivery",
+                "start_time": 5393,
+                "duration": 240,
+                "shipment_index": 4,
+                "shipment_id": "order_5",
+                "waypoint_index": 5
+              },
+              {
+                "index": 25,
+                "type": "delivery",
+                "start_time": 5633,
+                "duration": 120,
+                "shipment_index": 3,
+                "shipment_id": "order_4",
+                "waypoint_index": 5
+              },
+              {
+                "index": 26,
+                "type": "delivery",
+                "start_time": 5753,
+                "duration": 300,
+                "shipment_index": 2,
+                "shipment_id": "order_3",
+                "waypoint_index": 5
+              }
+            ],
+            "prev_leg_index": 4,
+            "next_leg_index": 5
+          },
+          {
+            "original_location": [
+              24.10973971297646,
+              56.95045385
+            ],
+            "location": [
+              24.10974,
+              56.950454
+            ],
+            "start_time": 6443,
+            "duration": 240,
+            "actions": [
+              {
+                "index": 27,
+                "type": "delivery",
+                "start_time": 6443,
+                "duration": 240,
+                "shipment_index": 18,
+                "shipment_id": "order_19",
+                "waypoint_index": 6
+              }
+            ],
+            "prev_leg_index": 5,
+            "next_leg_index": 6
+          },
+          {
+            "original_location": [
+              24.106826728088986,
+              56.94903825
+            ],
+            "location": [
+              24.106827,
+              56.949038
+            ],
+            "start_time": 6924,
+            "duration": 420,
+            "actions": [
+              {
+                "index": 28,
+                "type": "delivery",
+                "start_time": 6924,
+                "duration": 300,
+                "shipment_index": 57,
+                "shipment_id": "order_58",
+                "waypoint_index": 7
+              },
+              {
+                "index": 29,
+                "type": "delivery",
+                "start_time": 7224,
+                "duration": 120,
+                "shipment_index": 56,
+                "shipment_id": "order_57",
+                "waypoint_index": 7
+              }
+            ],
+            "prev_leg_index": 6,
+            "next_leg_index": 7
+          },
+          {
+            "original_location": [
+              24.106269353997504,
+              56.94908767684572
+            ],
+            "location": [
+              24.106269,
+              56.949088
+            ],
+            "start_time": 7358,
+            "duration": 300,
+            "actions": [
+              {
+                "index": 30,
+                "type": "delivery",
+                "start_time": 7358,
+                "duration": 300,
+                "shipment_index": 66,
+                "shipment_id": "order_67",
+                "waypoint_index": 8
+              }
+            ],
+            "prev_leg_index": 7,
+            "next_leg_index": 8
+          },
+          {
+            "original_location": [
+              24.10691069369205,
+              56.94917615
+            ],
+            "location": [
+              24.106911,
+              56.949176
+            ],
+            "start_time": 7669,
+            "duration": 240,
+            "actions": [
+              {
+                "index": 31,
+                "type": "delivery",
+                "start_time": 7669,
+                "duration": 120,
+                "shipment_index": 61,
+                "shipment_id": "order_62",
+                "waypoint_index": 9
+              },
+              {
+                "index": 32,
+                "type": "delivery",
+                "start_time": 7789,
+                "duration": 120,
+                "shipment_index": 60,
+                "shipment_id": "order_61",
+                "waypoint_index": 9
+              }
+            ],
+            "prev_leg_index": 8,
+            "next_leg_index": 9
+          },
+          {
+            "original_location": [
+              24.106834056249998,
+              56.94891765
+            ],
+            "location": [
+              24.106834,
+              56.948918
+            ],
+            "start_time": 8144,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 33,
+                "type": "delivery",
+                "start_time": 8144,
+                "duration": 120,
+                "shipment_index": 58,
+                "shipment_id": "order_59",
+                "waypoint_index": 10
+              }
+            ],
+            "prev_leg_index": 9,
+            "next_leg_index": 10
+          },
+          {
+            "original_location": [
+              24.111825853586986,
+              56.949159550000005
+            ],
+            "location": [
+              24.111826,
+              56.94916
+            ],
+            "start_time": 8753,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 34,
+                "type": "delivery",
+                "start_time": 8753,
+                "duration": 120,
+                "shipment_index": 39,
+                "shipment_id": "order_40",
+                "waypoint_index": 11
+              }
+            ],
+            "prev_leg_index": 10,
+            "next_leg_index": 11
+          },
+          {
+            "original_location": [
+              24.11147385910852,
+              56.94881585
+            ],
+            "location": [
+              24.111474,
+              56.948816
+            ],
+            "start_time": 8946,
+            "duration": 540,
+            "actions": [
+              {
+                "index": 35,
+                "type": "delivery",
+                "start_time": 8946,
+                "duration": 240,
+                "shipment_index": 32,
+                "shipment_id": "order_33",
+                "waypoint_index": 12
+              },
+              {
+                "index": 36,
+                "type": "delivery",
+                "start_time": 9186,
+                "duration": 300,
+                "shipment_index": 31,
+                "shipment_id": "order_32",
+                "waypoint_index": 12
+              }
+            ],
+            "prev_leg_index": 11,
+            "next_leg_index": 12
+          },
+          {
+            "original_location": [
+              24.109829065059444,
+              56.94868015
+            ],
+            "location": [
+              24.109829,
+              56.94868
+            ],
+            "start_time": 9526,
+            "duration": 120,
+            "actions": [
+              {
+                "index": 37,
+                "type": "delivery",
+                "start_time": 9526,
+                "duration": 120,
+                "shipment_index": 36,
+                "shipment_id": "order_37",
+                "waypoint_index": 13
+              }
+            ],
+            "prev_leg_index": 12,
+            "next_leg_index": 13
+          },
+          {
+            "original_location": [
+              24.110008274417993,
+              56.9489219
+            ],
+            "location": [
+              24.110008,
+              56.948922
+            ],
+            "start_time": 9648,
+            "duration": 300,
+            "actions": [
+              {
+                "index": 38,
+                "type": "delivery",
+                "start_time": 9648,
+                "duration": 300,
+                "shipment_index": 29,
+                "shipment_id": "order_30",
+                "waypoint_index": 14
+              }
+            ],
+            "prev_leg_index": 13,
+            "next_leg_index": 14
+          },
+          {
+            "original_location": [
+              24.10966985467359,
+              56.9487742
+            ],
+            "location": [
+              24.10967,
+              56.948774
+            ],
+            "start_time": 9950,
+            "duration": 240,
+            "actions": [
+              {
+                "index": 39,
+                "type": "delivery",
+                "start_time": 9950,
+                "duration": 240,
+                "shipment_index": 34,
+                "shipment_id": "order_35",
+                "waypoint_index": 15
+              }
+            ],
+            "prev_leg_index": 14,
+            "next_leg_index": 15
+          },
+          {
+            "original_location": [
+              24.110275132793106,
+              56.94851585
+            ],
+            "location": [
+              24.110275,
+              56.948516
+            ],
+            "start_time": 10251,
+            "duration": 240,
+            "actions": [
+              {
+                "index": 40,
+                "type": "delivery",
+                "start_time": 10251,
+                "duration": 240,
+                "shipment_index": 37,
+                "shipment_id": "order_38",
+                "waypoint_index": 16
+              }
+            ],
+            "prev_leg_index": 15
+          }
+        ]
+      }
+    }
+  ]
+}

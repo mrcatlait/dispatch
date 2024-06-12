@@ -1,0 +1,32 @@
+$height: 48px;
+
+:host {
+  display: flex;
+  align-items: center;
+  height: $height;
+  min-width: 360px;
+  max-width: 720px;
+  gap: 16px;
+  padding: 0 16px;
+  border-radius: calc($height / 2);
+  background-color: rgba(var(--color-primary-rgb), .08);
+}
+
+i {
+  color: var(--color-text-medium-emphasis);
+}
+
+input {
+  flex-grow: 1;
+  min-height: $height;
+  padding: 0;
+  outline: none;
+
+  &:hover {
+    outline: none;
+  }
+
+  &::placeholder {
+    color: var(--color-text-high-emphasis);
+  }
+}

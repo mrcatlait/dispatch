@@ -1,0 +1,60 @@
+@use '../abstracts' as abstracts;
+
+@mixin default() {
+  :root {
+    --color-primary: #2757FF;
+    --color-primary-rgb: #{abstracts.hex-to-rgb(#2757FF)};
+    --color-on-primary: #FFFFFF;
+
+    --color-secondary: #181818;
+    --color-secondary-rgb: #{abstracts.hex-to-rgb(#181818)};
+
+    --color-text-high-emphasis: rgba(0, 0, 0, .96);
+    --color-text-high-emphasis-rgba: #{abstracts.hex-to-rgb(#000000)};
+    --color-text-medium-emphasis: rgba(0, 0, 0, .6);
+    --color-text-disabled: rgba(0, 0, 0, .38);
+
+    --color-surface: #F7F7FA;
+    --color-surface-rgb: #{abstracts.hex-to-rgb(#F7F7FA)};
+    --color-surface-container: #ffffff;
+    --color-surface-container-lowest: #EFEFF5;
+
+    --color-outline: rgba(0, 0, 0, .16);
+
+    --color-green: #32d84c;
+    --color-red: #ff443b;
+  }
+
+  html {
+    color: var(--color-text-high-emphasis);
+    background-color: var(--color-surface);
+  }
+
+  .primary {
+    color: var(--color-primary);
+  }
+
+  .secondary {
+    color: var(--color-secondary);
+  }
+
+  .primary-text {
+    color: var(--color-text-high-emphasis);
+  }
+
+  .secondary-text {
+    color: var(--color-text-medium-emphasis);
+  }
+
+  .disabled-text {
+    color: var(--color-text-disabled);
+  }
+
+  .green {
+    color: var(--color-green);
+  }
+
+  .red {
+    color: var(--color-red);
+  }
+}

@@ -1,0 +1,21 @@
+<d-title />
+
+<!-- <button
+  class="primary filled"
+  routerLink="new"
+>
+  <i>add</i>
+  New
+</button> -->
+
+<div class="d-order-list-filters">filters</div>
+
+<ag-grid-angular
+  [class]="themeClass"
+  [columnDefs]="columnDefs"
+  [modules]="modules"
+  [pagination]="true"
+  [rowData]="rowData"
+  [rowHeight]="52"
+  [suppressMovableColumns]="true"
+/>

@@ -1,0 +1,32 @@
+$header-height: 64px;
+
+:host {
+  height: $header-height;
+}
+
+header {
+  position: fixed;
+  display: grid;
+  grid-template-columns: auto auto 1fr auto;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  height: $header-height;
+  padding: 0 24px;
+  background-color: var(--color-surface);
+  box-shadow: 0 8px 24px var(--color-surface);
+
+  button {
+    margin-left: -8px;
+  }
+}
+
+.d-default-layout-header-profile {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+d-search {
+  margin-left: 74px;
+}

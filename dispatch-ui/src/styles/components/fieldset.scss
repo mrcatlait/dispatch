@@ -1,0 +1,13 @@
+@mixin fieldset() {
+  fieldset {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    border: none;
+    padding: 0;
+  }
+
+  label + fieldset {
+    margin-top: 8px;
+  }
+}

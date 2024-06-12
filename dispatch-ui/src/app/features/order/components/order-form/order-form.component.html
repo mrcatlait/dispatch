@@ -1,0 +1,78 @@
+<form [formGroup]="form">
+  <fieldset>
+    <label for="customerName">Customer Name:</label>
+
+    <input
+      id="customerName"
+      type="text"
+    />
+  </fieldset>
+
+  <div class="fieldset-group">
+    <fieldset>
+      <label for="customerEmail">Customer Email:</label>
+
+      <input
+        id="customerEmail"
+        type="email"
+      />
+    </fieldset>
+
+    <fieldset>
+      <label for="customerPhone">Customer Phone:</label>
+
+      <input
+        id="customerPhone"
+        type="text"
+      />
+    </fieldset>
+  </div>
+
+  <fieldset>
+    <label for="addressStreet">Address:</label>
+
+    <input
+      id="addressStreet"
+      type="text"
+    />
+  </fieldset>
+
+  <fieldset>
+    <label for="dueDate">Due Date:</label>
+
+    <input
+      id="dueDate"
+      type="date"
+    />
+  </fieldset>
+
+  <fieldset>
+    <label for="notes">Notes:</label>
+
+    <textarea id="notes"></textarea>
+  </fieldset>
+
+  <fieldset formArrayName="products">
+    <!-- <div *ngFor="let product of form.get('products').controls; let i = index">
+      <div [formGroupName]="i">
+        <fieldset>
+          <label for="productName{{ i }}">Product Name:</label>
+          <input
+            id="productName{{ i }}"
+            formControlName="name"
+            type="text"
+          />
+        </fieldset>
+
+        <fieldset>
+          <label for="productQuantity{{ i }}">Quantity:</label>
+          <input
+            id="productQuantity{{ i }}"
+            formControlName="quantity"
+            type="number"
+          />
+        </fieldset>
+      </fieldset>
+    </fieldset> -->
+  </fieldset>
+</form>

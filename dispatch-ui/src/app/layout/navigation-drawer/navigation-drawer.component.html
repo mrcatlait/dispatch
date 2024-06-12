@@ -1,0 +1,37 @@
+<nav>
+  <ul class="body-m">
+    <li
+      #home="routerLinkActive"
+      [routerLinkActiveOptions]="{ exact: true }"
+      routerLink=""
+      routerLinkActive="active"
+    >
+      <div class="d-default-layout-icon">
+        <i [class.outlined]="!home.isActive">home</i>
+      </div>
+      Home
+    </li>
+
+    <li
+      #orders="routerLinkActive"
+      routerLink="/orders"
+      routerLinkActive="active"
+    >
+      <div class="d-default-layout-icon">
+        <i [class.outlined]="!orders.isActive">orders</i>
+      </div>
+      Orders
+    </li>
+
+    <li
+      #fleet="routerLinkActive"
+      routerLink="/fleet"
+      routerLinkActive="active"
+    >
+      <div class="d-default-layout-icon">
+        <i [class.outlined]="!fleet.isActive">local_shipping</i>
+      </div>
+      Fleet
+    </li>
+  </ul>
+</nav>

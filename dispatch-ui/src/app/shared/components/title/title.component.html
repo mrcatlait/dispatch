@@ -1,0 +1,18 @@
+<div
+  *ngIf="hasBreadcrumbs()"
+  class="d-title-breadcrumbs"
+>
+  @for (breadcrumb of breadcrumbs(); track breadcrumb.url; let last = $last) {
+    <a
+      [class.d-title-breadcrumbs-active]="last"
+      [routerLink]="breadcrumb.url"
+      class="body-m"
+    >
+      {{ breadcrumb.label }}
+    </a>
+
+    <span *ngIf="!last"> / </span>
+  }
+</div>
+
+<h1>{{ title() }}</h1>

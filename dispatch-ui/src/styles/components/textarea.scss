@@ -1,0 +1,35 @@
+@mixin textarea() {
+  textarea {
+    background-color: transparent;
+    min-height: 56px;
+    resize: vertical;
+    padding: 16px 16px;
+    caret-color: var(--color-text-high-emphasis);
+    color: var(--color-text-high-emphasis);
+    font-family: var(--typography-font-family);
+    font-size: 15px;
+    border-radius: var(--shape-small);
+    border: none;
+    transition: outline .2s ease-in-out;
+    outline: 1px solid var(--color-outline);
+  
+    &:focus,
+    &:focus-visible {
+      outline: none;
+      caret-color: var(--color-primary);
+      outline: 2px solid var(--color-primary);
+    }
+
+    &:hover:not(:focus-within) {
+      outline: 1px solid var(--color-text-medium-emphasis);
+    }
+  
+    &:focus-visible::placeholder {
+      color: transparent;
+    }
+  
+    &::placeholder {
+      color: var(--color-text-medium-emphasis);
+    }
+  }
+}
